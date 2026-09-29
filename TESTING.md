@@ -1,5 +1,5 @@
 # Warband Reimagined - Testing Guide
-**Thank you for helping. This mod is big and mostly untested by real players, so every report counts - including "it works fine".**
+This is an optional checklist for anyone who wants to help check the mod. It is big and has had little play-testing so far. Reports are appreciated, including "it works fine".
 
 ## Before you start
 
@@ -17,7 +17,7 @@ Post in this item's Workshop comments or in the Discussions tab with:
 - Options > Debug tools > **Diagnostics** shows the save version and the state of every system: paste it if you can.
 
 ## Highest priority (most likely to break)
-These touch Native's battle and encounter code, so a crash or odd behaviour is most likely here. Please try them and report even if all is well:
+These touch Native's battle and encounter code, so a crash or odd behaviour is most likely here. Reports on these are especially useful, even if all is well:
 
 - **Sally out** of a besieged fortress (siege menu > Sally out).
 - **Poisoning a well:** disguise at an enemy gate, carry the vial, find the well in the town.
@@ -57,7 +57,7 @@ These touch Native's battle and encounter code, so a crash or odd behaviour is m
 - **Living world:** ☐ Minstrels, Tinker's Cart, Travelling Envoy appear from ~day 4; Refugees appear near looted villages. Ride into them: a conversation (not a menu) offers choices; after one choice they only greet you.
 - ☐ Field battles: sometimes rain, snow (winter) or fog with a message. Archers are a bit worse; after Rally (N) or Volley (J) ends, archers go back to the weather-reduced aim (not to full).
 - **Gear:** ☐ Town merchants sometimes sell Swadian Blue Tabard, Vaegir Crimson Tunic, Nord Raider's Sword, etc.
-- **Balance:** ☐ Note how fast gold and renown grow by day 50 / 100 / 200 on Standard. Too fast or too slow? Tell me.
+- **Balance:** ☐ Note how fast gold and renown grow by day 50 / 100 / 200 on Standard. Too fast or too slow? Feedback on this is welcome.
 
 
 ## Test plan, continued
