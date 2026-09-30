@@ -3,7 +3,8 @@ This is an optional checklist for anyone who wants to help check the mod. It is 
 
 ## Before you start
 
-- Start a **NEW game** (older saves are not supported).
+- Start a **NEW game**. Version 8 does not load version 7 saves (the game warns you if you try).
+- What changed in this build: see the [changelog](CHANGELOG.md).
 - Pick a difficulty you enjoy. If it is too easy or too hard, that is itself useful feedback.
 - You do not need to test everything. Pick a section, play it, and report what you saw.
 
@@ -15,6 +16,16 @@ Post in this item's Workshop comments or in the Discussions tab with:
 - **Any red error text** (a screenshot of the message log is ideal).
 - For a crash: the file *rgl_log.txt* from your Warband folder, and whether you were in a battle, town, menu or on the map.
 - Options > Debug tools > **Diagnostics** shows the save version and the state of every system: paste it if you can.
+
+## New in version 8 - please try these first
+These are new and have only been played briefly:
+
+- **Walk-in places:** walk into a town's market, Low Town, guild hall, church and drill yard, a castle hall and a village green. Is each person standing at their post (not in a heap at the entrance)? Can you talk to them?
+- **The harbour:** in a harbour town (Sargoth, Tihr, Praven, Wercheg, Rivacheg, Yalen, Jelkala, Shariz), walk down to the waterfront. Does the pier start on the beach and stay above the water? Is the harbourmaster at the foot of the pier? Anything floating or buried?
+- **Personal stories:** talk to townsfolk and villagers; several offer a story of their own. Does each step lead somewhere you can reach, and does the ending give what it promised?
+- **Enlisting:** enlist with a lord and wait for a battle. Does "Take your place in the line!" take you into the fight? Does the camera stay with your lord afterwards?
+- **The start:** a new game should show the origin choice, the start rules, and then the welcome message, in that order. "Send word to your companions" should send someone to the nearest tavern.
+- **Performance:** if you play on an older or weaker PC, tell us how it runs.
 
 ## Highest priority (most likely to break)
 These touch Native's battle and encounter code, so a crash or odd behaviour is most likely here. Reports on these are especially useful, even if all is well:
@@ -34,7 +45,7 @@ These touch Native's battle and encounter code, so a crash or odd behaviour is m
 
 ### Smoke test - does every screen open and close cleanly?
 
-- ☐ Day 1: the Welcome pop-up appears once; a "Tip:" line appears every 3 days after that.
+- ☐ Right after the start pop-ups: the Welcome pop-up appears once; a "Tip:" line appears every 3 days after that.
 - ☐ Camp > The Chronicle hub: header shows season, year, day, standing, milestones (and heir / world crisis when present).
 - ☐ Records: Active affairs (+ Commitments, + Finished), Standing, Statistics (scroll the whole screen), Journal, Goals, Chronicle, Realms, Tavern talk, Ledger. Each Back returns to Records.
 - ☐ Your house: heir text, legacy points, boons (only with points), officers (only with a fief).

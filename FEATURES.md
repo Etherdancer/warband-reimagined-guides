@@ -1,6 +1,8 @@
 # Warband Reimagined - Full feature list
 
-*Everything in the mod, grouped by category. Back to the Steam Workshop page for install steps and feedback.*
+*Everything in the mod, grouped by category. Back to the Steam Workshop page for install steps and feedback. What changed in each build: see the [changelog](CHANGELOG.md).*
+
+> **Light on any PC.** Warband Reimagined uses Native's own models, textures, scenes, sounds and music. The only new art is the title logo. Everything else is new game logic, so it runs on older and weaker machines just as well as Native does.
 
 ## Your Story
 ### Choose Who You Were
@@ -463,3 +465,37 @@ Five tiers, chosen when the chronicle begins and changeable in Options: **Story*
 - How often raiders, assassins, fief riots and arrests come, and how many men your rival brings: Story 8%, Gentle 25%, Standard 100%, Hard 150%, Brutal 200%.
 - How long low morale and unpaid wages are tolerated before mutiny and desertion.
 - How early each side routs in battle (on Gentle your men hold to 14% and the enemy breaks at 55%).
+
+## Version 8 "The People Of Calradia"
+### The People Have Work And Stories
+
+- 43 kinds of townsfolk, villagers and keepers. Thirty-two offer work in their own trade (carrying goods for the smith, the sheriff's bounties, grain for the almoner, deserters in the huntsman's woods), and remember who helped them.
+- 45 personal stories of three steps each, with endings that change what that person can do for you afterwards and lasting perks (cheaper disguises, a bigger cellar-ring stake, Wanted that fades faster, siege warnings, half-price penance, double alms).
+- Standing with each person: do someone's jobs three times and they offer one lasting favour.
+- Every person has a name, face and clothes fitting the culture of their town, village or site, and remembers whether you have met.
+
+### Walk-In Places
+
+- Low Town lanes, the market, the guild hall, the great church, the drill yard, the castle hall and every village green, with each person at the post of their trade.
+- Harbour towns have a waterfront with a timber pier, a moored ship, a warehouse and the harbourmaster's house.
+- Walk into the inn yard, clan camp, toll post, burial mound, hunting grounds, quarry, logging camp, salt pans, iron workings and monastery; their keeper comes to meet you.
+- Taverns seat the taverner, the bard, the fence and the old soldier in their places. Walk-in places can be switched off in Options.
+
+### The World Notices You
+
+- Companions judge your darker deeds; lords hear how you treat the people of their fiefs; the morale report lists morale of your own making; townsfolk's news comes from the real state of the world.
+
+### Threads Between Systems
+
+- Origins count every week; old friends gather in a tavern at the start.
+- Omens before battle, a pre-battle speech, spoils to share, sell or keep; a four-week budget; injuries with a countdown to treatment.
+- Estate petitioners (sixteen cases); the rival's bounty at the Wardens; eighteen siege camp events, camp works and a taunt that may draw a sally.
+- A sergeant from the ranks, companions' ambitions, a banner bearer, rich and exotic feasts.
+- Enlisting at the rank your name deserves, with kit on loan for ninety days; tournament dedications; arena challenges from slighted lords.
+- The Smugglers' Cove keeper and his runs to the ports; kings condemn disloyal lords; an optional companion who may turn; armour refitted heavier or lighter; boar and wolves near the hunting grounds.
+
+### Realm And Person
+
+- The form of the crown; offices of the realm and a monthly council; rooms, shops and warehouses in towns; beacons over your fiefs.
+- Camp sickness, the fever ward, ageing from 45, the Hooded Council inside the Grey Road, a ranking of tournament fighters, Ravenhold's physician, master-at-arms and falconer.
+

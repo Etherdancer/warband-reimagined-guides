@@ -1,0 +1,114 @@
+# Warband Reimagined - Changelog
+
+*Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
+
+---
+
+## Version 8 "The People of Calradia" - test build
+
+**New game required.** Saves from version 7 are not supported (the game warns you if you load one).
+
+Version 7 filled Calradia with people and systems. Version 8 makes them deeper: the people have work, stories and faces of their own, the places can be walked into, and the systems now talk to each other.
+
+### The people have work and stories
+
+- 43 kinds of townsfolk, villagers and keepers. Thirty-two of them offer work in their own trade: the smith needs goods carried, the sheriff has a bounty, the almoner needs grain for the hungry, the huntsman wants deserters out of his woods. They remember who helped them.
+- **45 personal stories**, each three steps long, with endings that change what that person can do for you afterwards. Among them: the Master Smith of Praven's lost anvil, the Horse Dealer of Ichamur's stolen mare, the Notary of Uxkhal's forged deed, the Fallen Champion of Suno's lists, the Huntsman of Slezkh and the wolf, the Wise Woman of Kwynn's barrow dreams, the Beggar King's rival, the traitor at Reyvadin's gate, the weeping relic, the doubting abbot, and nineteen more for tavern folk, guild and harbour people, castle officers and the keepers of inns, camps, crossings, mounds, mines, hunting grounds and monasteries.
+- Stories end in **lasting perks**: cheaper disguises, a bigger stake in the cellar ring, Wanted that fades faster, siege warnings, half-price penance, double alms.
+- **Standing with each person**: anyone whose jobs you have done three times offers one lasting favour.
+- **Every person is their own**: townsfolk, villagers, keepers, mayors, tavern keepers, tournament masters, merchants and village elders all get a name, face and clothes that fit the culture of their town, village or site. The smith of Praven is not the smith of Tihr. They remember whether they have met you.
+
+### Walk-in places
+
+- Walk into the Low Town's lanes, the market, the guild hall, the great church, the drill yard, the castle hall and every village green. These are vanilla scenes where each person stands at the post of their trade: the horse dealer by the stables, the miller at the mill, the notary at his table.
+- **The harbour**: the harbour towns have a waterfront to walk, with a timber pier, a moored ship, a warehouse and the harbourmaster's house.
+- The mod's map places can be walked into: the inn yard, the clan camp, the toll post at a river crossing, the burial mound, the hunting grounds, the quarry and logging camp, the salt pans and iron workings, the monastery. Their keeper comes to meet you.
+- Taverns: the taverner at the counter, the bard by the fire, the fence at a corner table, the old soldier on his bench.
+- The old "Speak with" lines stay on a quick-talk page, and walk-in places can be switched off in Options.
+
+### The world notices you
+
+- Companions judge your darker deeds (executing prisoners, sacking, poisoning wells, robbing pilgrims, smuggling, turning on allies), with complaints, or approval from the hard-bitten.
+- Lords hear when you help or squeeze the people of their fiefs, and speak of it when you meet.
+- The party morale report shows morale of your own making: Voice of Command, camp followers, sworn brothers, a recent feast.
+- Townsfolk's news comes from the world as it is: your rival asking after you, a realm sick of war, a riot, a lord who hates his king, the watch's description of you.
+
+### Threads between systems
+
+- Your origin still counts every week. Old friends can gather in the nearest tavern at the start.
+- Omens before battle, a pre-battle speech that can stir or fail, spoils to share out, sell or keep.
+- A four-week budget by category, and injuries that tell you how long you have left to treat them.
+- Low estates send petitioners: sixteen cases from reeve, herald, bishop, guildmasters and stewards.
+- The rival captain's bounty grows weekly and can be collected at the Wardens; the fence sells his whereabouts.
+- Sieges have eighteen camp events, camp works that keep the matching troubles away, and a taunt that may draw a sally.
+- A veteran may step forward from the ranks to be your sergeant; companions have ambitions; a banner bearer steadies the line; feasts can be rich or exotic.
+- Enlisting starts you at the rank your name deserves and lends you kit for ninety days. Tournament wins can be dedicated to a spouse or a lady; lords remember refused invitations and may challenge you in the arena.
+- The Smugglers' Cove has a keeper and runs cargo to the ports. Kings condemn disloyal lords. An optional companion may turn against you. Smiths refit armour heavier or lighter. Boar and wolves roam near the hunting grounds.
+
+### Realm and person
+
+- The form of the crown after the coronation. Offices of the realm (marshal, treasurer, spymaster, chaplain) and a monthly council.
+- Rooms, shops and warehouses to own in towns. Beacons over your fiefs.
+- Camp sickness in winter, sieges and hungry camps; the fever ward in plague towns.
+- The years tell on you from 45 (a year is 120 days).
+- The Hooded Council, a hidden rank inside the Grey Road. A ranking of tournament fighters.
+- Ravenhold can keep a physician, a master-at-arms and a falconer, and hides you from the hunt.
+
+### Look
+
+- The title logo was redrawn: solid letters with a clean outline, so it no longer shows a ring of dots on PCs with alpha-to-coverage switched on.
+
+### Fixes from play-testing
+
+- **Menus opened the wrong page.** The build numbered menus differently in two places, so some map pop-ups opened the page next to the one intended: the origin choice at the start opened its result page instead (showing an ending's text), and the Faith's skill gift opened a feast page with garbled text. Fixed at the root, with a new build check so it cannot happen again.
+- **People in walk-in places stood at the scene's entry point** instead of their posts (at the harbour, up on the hill out of sight). They now appear at their posts.
+- **"Take your place in the line!"** did nothing when your lord went into battle while you were enlisted. It now takes you straight into the battle.
+- **The camera was left behind** after a battle screen while enlisted. It now stays with your lord.
+- "Send word to your companions" at the start found nobody; it now sends up to three free companions to the nearest tavern.
+- The feast-day page no longer shows garbled text on a day with no feast.
+- The welcome message now appears right after the start pop-ups instead of a day into the game.
+- The voyage menu can no longer trap you; robbers who cannot be paid in coin take goods instead.
+- Quests whose steps lead to inns, clan camps, work sites, monasteries and crossings can now be completed.
+- Estate changes from petitions and events no longer vanish at the weekly recount.
+
+---
+
+## Version 7 "One World" - first public test build
+
+**New game required.**
+
+- **People and places:** town quarters, 60+ talking NPC roles with memory, villages and castles with their own folk.
+- **The Faith:** piety ranks, vows, indulgences, relics, the Holy Muster, monasteries, feast days and the Bells of Ymra arc.
+- **Crime and law:** Wanted levels per kingdom, arrest, trial, bail, the chain gang, riots, smuggling, the Wardens' League.
+- **Economy II:** smith commissions, parcels of land, a wagon, cattle herds, work sites, hunting grounds, fishing, a weekly budget.
+- **War II:** order of battle, stances, mutiny, prisoner treatment, trophies, Free Companies.
+- **Map II:** inns, clan camps, river crossings, hidden places, burial mounds, secret passes, sea voyages.
+- **Kingdom II:** treasury, policies, laws, estates, royal style, coronation, manors, tiered buildings.
+- **Diplomacy II:** treaties, infamy, envoys, dictated peace.
+- **Character:** twenty graded traits, dilemmas, prestige and social class, sworn brothers.
+- **Quests III:** five new story arcs, twenty new side quests, bounties, Grey Road jobs, steward emergencies.
+- **Town life:** lessons, drill, feasts, the cellar ring, jousts, horse races, champions.
+- Start-of-game rules, reports, the company gathering at an ending, 41 endings in all.
+- Difficulty reworked into five tiers (Story, Gentle, Standard, Hard, Brutal).
+- Fixes from a full code audit: scripts that failed silently, "change sides" really switches sides, options that took gold you did not have are hidden until you can pay, a Native typo in the courtship check.
+
+## Version 6
+
+**New game required.**
+
+- 42 more events (kingdom road stories, shore and river encounters, companion banter, family scenes) and 26 more quests (a second quest for every companion, ten radiant town quests).
+- World crises from about day 230: the Long Winter, the Succession War, the Comet Year, the Iron Tide.
+- Your house: heirs, tutoring, passing the mantle, the Heirloom Blade and legacy points.
+- Lords' petitions, sworn friends and grudges; minstrels, tinkers, refugees and envoys on the map; rain, snow and fog in field battles; faction gear from vanilla art.
+- Difficulty, debug tools, the Active Affairs journal, the in-game Guide and hints.
+
+## Version 5
+
+**New game required.**
+
+- The statistics screen and the soldier's career (enlisting in a lord's host).
+- Fixes from the first code audit.
+
+## Versions 1 to 4
+
+- The foundations: origins, reputation tracks, milestones, endings, story arcs, side quests, events, landmarks, legendary items, new troop lines on vanilla models, battle orders, morale and routing, sieges, seasons, organisations, settlements and the royal court.
