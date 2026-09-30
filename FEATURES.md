@@ -12,7 +12,7 @@
 - - The captain of a small mercenary band - eight men and some renown.
 - - The heir of a merchant house - gold, fine goods and a Guild charter.
 - - A hunted outlaw - cutthroats, notoriety and friends on the Grey Road.
-- - A pilgrim - piety, the trust of the common folk and the notice of the Order of the Dawn.
+- - A pilgrim - piety, the trust of the common folk and the notice of the Order of the Lantern.
 - - A disgraced noble - a famous name and a bank loan due in sixty days.
 - - A veteran soldier - old comrades, skills and weapon training.
 
@@ -47,7 +47,7 @@
 28 endings, each with its own epilogue:
 High Monarch of Calradia - The Kingmaker - Emperor of the Restored Empire
 High Chancellor of the Throne - Breaker of Crowns - Saviour of Calradia
-The Healer - Grandmaster of the Order of the Dawn - Guildmaster of Calradia
+The Healer - Grandmaster of the Order of the Lantern - Guildmaster of Calradia
 Lord of Thieves - Warden of the Roads - Merchant Prince
 Champion of the Common Folk - The Saint of the Roads
 The Terror of Calradia - Legendary Champion - The Living Legend
@@ -135,7 +135,7 @@ you may die of your wounds instead - and the chronicle closes for good.
 
 ### Legendary Arms
 
-- Seven unique pieces of arms and armour, never sold in any market, each earned at the end of a great story: Oathkeeper, Harald Sea-King's Axe, the Bow of the White Falcon, the Blade of the Dawn, Vargan's Sword, the Champion's Surcoat and the Black Hound, your nemesis's warhorse.
+- Seven unique pieces of arms and armour, never sold in any market, each earned at the end of a great story: Oathkeeper, Harald Sea-King's Axe, the Bow of the White Falcon, the Blade of the Lantern, Vargan's Sword, the Champion's Surcoat and the Black Hound, your nemesis's warhorse.
 
 ## A Living World
 ### The Turning Year
@@ -162,7 +162,7 @@ you may die of your wounds instead - and the chronicle closes for good.
 - The Black Khergit Horde: rumours from the steppe, then a great invasion. Five named warbands roam Calradia burning villages. Break them yourself and be remembered as the Saviour of Calradia.
 - The Pale Fever: a plague that spreads from town to town along the trade roads. Help stricken towns (at some risk to your men) until you understand the fever well enough to cure it.
 - Or betray Calradia: an adventurer sworn to no king may ride to the Khan and offer his sword. Every kingdom turns against you, but every village the Horde burns pays you a share - and thirty burned villages make you the Scourge of Calradia.
-- A busier world: patrols of the Order of the Dawn ride the roads hunting bandits, and bands of pilgrims travel from town to town. Guard them - or rob them, and see how quickly word spreads. Cut down the Order's knights and the Order will not forget.
+- A busier world: patrols of the Order of the Lantern ride the roads hunting bandits, and bands of pilgrims travel from town to town. Guard them - or rob them, and see how quickly word spreads. Cut down the Order's knights and the Order will not forget.
 - Stop and talk to them: give pilgrims alms or pray with them (or shake them down), ride a day with an Order patrol, ask for news of the roads, or - as a senior brother - ask the patrol for squires.
 - The Bandit King: from day 100, a great host of outlaws gathers under one master and burns its way from village to village until someone breaks it.
 - Famine: some winters, a kingdom starves for a month. Grain doubles in price in its towns - sell yours at a fair price and be blessed, or at famine prices and be rich.
@@ -228,7 +228,7 @@ you may die of your wounds instead - and the chronicle closes for good.
 ### New Soldiers
 
 - Seven new troop lines, all in vanilla equipment, each tied to a path:
-- - Order of the Dawn: Squire, Knight and Paladin of the Dawn.
+- - Order of the Lantern: Squire, Knight and Paladin of the Lantern.
 - - The Grey Road: Cutthroat, Blade and Shadow of the Road - quick fighters with throwing knives.
 - - The Merchants' Guild: Caravan Guard and Guild Man-at-Arms.
 - - The faithful: Pilgrim Zealots and Crusaders of the Roads.
@@ -299,7 +299,7 @@ you may die of your wounds instead - and the chronicle closes for good.
 ## Organisations
 ### The Three Organisations
 
-- The Order of the Dawn: a knightly order sworn to guard the roads. Rise from Aspirant to Grandmaster through vigils, tithes, tournament glory and victories over outlaws. Senior members can bring brother-knights into their company.
+- The Order of the Lantern: a knightly order sworn to guard the roads. Rise from Aspirant to Grandmaster through vigils, tithes, tournament glory and victories over outlaws. Senior members can bring brother-knights into their company.
 - Brothers of the Order may swear a vow - of Poverty, Protection or Valour - that brings weekly rewards, until the day they break it.
 - The Merchants' Guild: buy a charter, run trading ventures, deliver contracts and own workshops to rise from Associate to Guildmaster of Calradia. Senior members draw a weekly stipend.
 - The Grey Road: the underworld. Smuggle, extort, fence stolen goods and raid your way from Footpad to Lord of Thieves. Hire cutthroats, or have friends in high places make your records disappear.
@@ -307,7 +307,7 @@ you may die of your wounds instead - and the chronicle closes for good.
 ### Great Deeds Of The Organisations
 
 - Each organisation has its own finale for its senior members:
-- - The Last Vigil (Order of the Dawn): recover the Order's first banner, defend its people and keep the vigil to be acclaimed Grandmaster.
+- - The Last Vigil (Order of the Lantern): recover the Order's first banner, defend its people and keep the vigil to be acclaimed Grandmaster.
 - - The Great Heist (Grey Road): recruit a locksmith, scout the treasury of Veluca and rob it blind - or betray the Grey Road to the Order.
 - - Coin of the Realm (Merchants' Guild): corner the velvet trade, lend gold to a king and found the Bank of Calradia.
 
