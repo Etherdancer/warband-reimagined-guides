@@ -9,6 +9,9 @@
 ### Fixed
 
 - **Tournament events were fought with no equipment.** Every festival event put the fighters in the arena with empty hands, so the duel, the team knockout and the joust all came out as a fist fight. Each event now has its arms: the duel and the team events the arms you choose, the joust a horse, lance and shield, the archery events a bow and ten arrows. The same fault is fixed in the arena bouts outside the festival (the town champion, sparring, the joust ladder, a lord's challenge, a duel on the road).
+- **Wrestling could not be won.** A fist did no damage through the padded tunic, so neither man ever went down and the bout never ended. Every blow that lands now counts: three blows are a fall, three falls win.
+- **Stuck in a contest.** In the joust and in wrestling the Tab key now yields the contest (a loss) instead of doing nothing.
+- **Archery targets half in the ground.** The targets of the archery and horse archery contests now stand at chest height.
 - **No lances on foot.** The "spear and shield" arms of the duel and the team knockout gave every fighter a lance, which is a rider's weapon. Those arms are now a quarterstaff and shield. The lance stays where it belongs, in the joust.
 - **Crash when speaking with the Master Smith.** Choosing "Speak with the Master Smith" in a town's Market Quarter could close the game. His list of replies was far longer than anyone else's. Commissions are now asked under "I want to commission a piece." and repairs and reforging under "I want work done on my gear."
 - **Townsfolk gave a wrong line as news.** Asking "What news do you hear?" could be answered with an unrelated line ("You got keys of dungeon."). The same fault put the wrong text on some messages when you walk into a place. All of these now show the text that was meant.
