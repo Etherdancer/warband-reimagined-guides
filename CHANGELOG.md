@@ -2,11 +2,47 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
-## Version 10 "The Stories of Calradia" - test build, NOT PLAYED YET
+## Version 11 "The Free Road" - test build, NOT PLAYED YET
 
 **NEW GAME REQUIRED.** Saves from older versions do not work.
 
 This build has been checked by tools only. Please expect rough edges and report what you find.
+
+Version 10 was about stories. Version 11 is for the rider who wants no story at all: the map is busy, every party on it can be met, and riding the roads is a way to wealth and power of its own.
+
+### New
+
+- **A busy map:** Guild convoys, horse traders, treasure hunters, slavers' coffles, a reliquary procession, errant knights, a champion's retinue, banner-seekers, clan warbands, four named Free Companies, road patrols and the king's silver for every kingdom, and the Wardens' Riders. Later in the game: Sea-Wolves, Black Felt Riders, exiled lords and a Pretender's Host.
+- **Every party is met by talk:** trade, escort, duel, learn, hire, ride along or rob. Every attack line tells you what it costs before you do it.
+- **Rich by riding:** purses, town bounties, 25 named captains' prizes, tokens for a master smith's masterwork forge, ransom for captains, and a weekly stipend at a hundred parties broken.
+- **Strong by riding:** every ten parties broken adds a man to your company's limit. Five new milestones (157 in all).
+- **Your own patrols:** raise them from a fief's garrison, give orders, pay wages. They run down small bands and keep raiders away. Ravenhold and your outposts can post one too.
+- **The raider road:** notoriety ranks with perks, Raider's Bluff as a haven to build up, black rents from villages, tolls from river crossings, a Lookout, a Slaver, three Reaver Captains with a Black Board of work, six named hunters, and an ending of its own (42 endings in all). It pays more and costs friends.
+- **25 road stories** (372 stories in all): hunt a band, guard silver, a convoy or a relic, recover robbed silver, retake a crossing, kings' requests at high renown, and raider work from the Black Board.
+- **Roads that change:** war doubles patrols and thins convoys; feast weeks bring pilgrims; a claimant's host may seize a river crossing; clans raid the enemies of their friends.
+- **Finds and prices:** convoys and horse traders trade at road prices; a saint's reliquary to return to the Faith or sell; imperial curios for the Diggers.
+- **A report on the roads** under Reports, a block for the road on the character sheet, and budget rows for patrols, tolls and rents.
+- **Start rules:** how lively the roads are, and whether hostile wanderers ride at all.
+- **Optional, off by default:** the Lieutenant's Banner. A companion leads a second party of your men.
+
+### Changed
+
+- The early game stays gentle: raiders appear far away at first and leave a company of fewer than twelve alone unless provoked. Story difficulty never sends hostile wanderers.
+- Pilgrims, minstrels, tinkers, settlers, smuggling trains and the other wanderers of earlier versions are now kept by one system, so the map stays tidy in long games.
+- Raiders no longer march on your settlement while one of your patrols is near it.
+- Selling prisoners at camp pays the full price only when a slavers' coffle is near.
+
+### Fixed
+
+- The weekly budget page (Reports > "Your income and costs, week by week") showed wrong numbers; it now shows the stored figures for each week.
+- The bishop offered the same blessing twice.
+- Smaller repairs from a full code audit of the mod.
+
+---
+
+## Version 10 "The Stories of Calradia" - test build
+
+**New game required.** Saves from version 8 do not work.
 
 ### New
 
