@@ -31,6 +31,7 @@ This build has been checked by tools only. Please expect rough edges and report 
 
 ### Fixed
 
+- Soldiers enlisted in a lord's host and mercenaries on a Free Company war contract could not join sieges or battles against their employer's enemies; they now take on those enemies while they serve.
 - Quest endings could overwrite other data once there were more than 300 stories; moved to a larger range.
 - The troop trees menu showed "{!}culture 1"; it now names the cultures.
 
