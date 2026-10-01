@@ -32,6 +32,7 @@ This build has been checked by tools only. Please expect rough edges and report 
 ### Fixed
 
 - Soldiers enlisted in a lord's host and mercenaries on a Free Company war contract could not join sieges or battles against their employer's enemies; they now take on those enemies while they serve.
+- Vassals, mercenaries and marshals who could not join sieges: any kingdom at war with your kingdom is now also an enemy of your side, checked every day. (Reported by a tester; the exact cause is not confirmed, so please tell me if it still happens.)
 - Quest endings could overwrite other data once there were more than 300 stories; moved to a larger range.
 - The troop trees menu showed "{!}culture 1"; it now names the cultures.
 
