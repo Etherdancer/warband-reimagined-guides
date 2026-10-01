@@ -40,7 +40,7 @@ Tick off what you try. Write down anything odd.
 Pick one of these and play it for a while:
 
 - **Origins:** start a new game with a different origin. Does the opening make sense?
-- **Tournament:** go to a town with a tournament and join the festival. Do the bracket and the events work?
+- **Tournament:** go to a town with a tournament and join the festival. Enter each event once. Does every fighter have the right arms (a lance and horse in the joust, a bow in archery, bare hands only in wrestling)? Do the joust and wrestling count points and end at three?
 - **A great story:** ask around for the Emperor's Regalia (a scholar in Zendar), Blood and Ashes (your first week), or the Pale Fever (when the plague starts).
 - **Enlisting:** join a lord's army and wait for a battle. Does "Take your place in the line!" work?
 - **Your own settlement or kingdom:** if you get there, tell me what breaks.

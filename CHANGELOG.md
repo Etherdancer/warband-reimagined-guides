@@ -2,6 +2,26 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.2 - fixes for tournaments, merchants, the smith and townsfolk news
+
+**Saves from version 11 keep working.** No new game is needed for this update.
+
+### Fixed
+
+- **Tournament events were fought with no equipment.** Every festival event put the fighters in the arena with empty hands, so the duel, the team knockout and the joust all came out as a fist fight. Each event now has its arms: the duel and the team events the arms you choose, the joust a horse, lance and shield, the archery events a bow and ten arrows. The same fault is fixed in the arena bouts outside the festival (the town champion, sparring, the joust ladder, a lord's challenge, a duel on the road).
+- **No lances on foot.** The "spear and shield" arms of the duel and the team knockout gave every fighter a lance, which is a rider's weapon. Those arms are now a quarterstaff and shield. The lance stays where it belongs, in the joust.
+- **Crash when speaking with the Master Smith.** Choosing "Speak with the Master Smith" in a town's Market Quarter could close the game. His list of replies was far longer than anyone else's. Commissions are now asked under "I want to commission a piece." and repairs and reforging under "I want work done on my gear."
+- **Townsfolk gave a wrong line as news.** Asking "What news do you hear?" could be answered with an unrelated line ("You got keys of dungeon."). The same fault put the wrong text on some messages when you walk into a place. All of these now show the text that was meant.
+- **Empty merchants at the start of a game.** A character who begins inside a town, such as the merchant heir, found every merchant with no goods and no money until some time had passed on the map. Merchants in every town are now stocked when a new game starts.
+
+### Changed
+
+- **Quest offers are easier to understand.** 172 offers were rewritten so that each one says who is asking, what is wrong and what they want from you. The stories themselves are unchanged.
+- **The joust is scored.** A lance on the rider scores a point, a couched lance unhorses him and wins at once, a blow on a horse counts for nothing. First to three points, or the better score after two minutes. Nobody is wounded.
+- **Wrestling is scored.** Blows wear a man down until he goes to the ground, which is a fall. First to three falls, or the better score after a minute and a half.
+
+---
+
 ## Version 11.1 - tournament fix
 
 **Saves from version 11 keep working.** No new game is needed for this update.
