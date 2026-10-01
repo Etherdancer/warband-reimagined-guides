@@ -2,6 +2,17 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.1 - tournament fix
+
+**Saves from version 11 keep working.** No new game is needed for this update.
+
+### Fixed
+
+- **Stuck after winning at a festival.** Winning an event at the Great Tournament in Praven (and any third, fifth, seventh, tenth or fifteenth tournament win) opened a pop-up box over the victory page that could not be closed, so the game was stuck. The news is now written on the victory page itself, and the page can always be left with "Back to the festival". Thanks to the player who reported it.
+- The victory page now pays its purse and prize exactly once.
+
+---
+
 ## Version 11 "The Free Road" - test build, NOT PLAYED YET
 
 **NEW GAME REQUIRED.** Saves from older versions do not work.
