@@ -2,6 +2,39 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 10 "The Stories of Calradia" - test build, NOT PLAYED YET
+
+**NEW GAME REQUIRED.** Saves from older versions do not work.
+
+This build has been checked by tools only. Please expect rough edges and report what you find.
+
+### New
+
+- **Every quest rebuilt:** 347 stories on one new engine. Choices show greyed with the reason, there is always an open path, and each ending changes the world.
+- **Great stories rewritten:** the Black Khergit Horde, the Pale Fever, the Emperor's Regalia, Blood and Ashes, the Sea-King's Hoard, the Drowned Crown, the Last Vigil, the Great Heist and more, plus a story in each world crisis.
+- **Companions:** a three-act story for each of the 16.
+- **Kingdoms and organisations:** two ruler lines for each of the six kingdoms, and a rank ladder for each of the five organisations.
+- **Personal stories** for 42 townsfolk and a long story for each culture's village.
+- **New lines:** the faith, the family, your rival, Ravenhold, the calendar's great events, crime, war service, trade and your own past.
+- **Tournament festival** with a bracket, team knockouts, the joust, wrestling, archery and betting.
+- **62 unique reward items** made from Native gear.
+- **Character creation in one flow,** and character export and import.
+- **Records in one place:** a one-screen character sheet, the Chronicle of Deeds with every story you ended, and lords' notes.
+- **Culture voices:** people answer in their culture's voice and remember how your stories ended.
+- Each season's great event has a fixed host city.
+
+### Changed
+
+- Menus moved to where Warband players look: Reports, Notes and the Chronicle.
+- Options you cannot afford are greyed instead of hidden. Costs are shown.
+- World crises are foretold ten days ahead.
+
+### Fixed
+
+- Quest endings could overwrite other data once there were more than 300 stories; moved to a larger range.
+- The troop trees menu showed "{!}culture 1"; it now names the cultures.
+
+
 ---
 
 ## Version 8 "The People of Calradia" - test build

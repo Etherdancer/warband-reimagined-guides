@@ -1,97 +1,47 @@
 # Warband Reimagined - Testing Guide
-This is an optional checklist for anyone who wants to help check the mod. It is big and has had little play-testing so far. Reports are appreciated, including "it works fine".
+
+Thank you for helping. **This version has not been play-tested**, so you may be the first person to see some of it. You do not need to be an expert: just play, and tell me what looked wrong.
 
 ## Before you start
 
-- Start a **NEW game**. Version 8 does not load version 7 saves (the game warns you if you try).
-- What changed in this build: see the [changelog](CHANGELOG.md).
-- Pick a difficulty you enjoy. If it is too easy or too hard, that is itself useful feedback.
-- You do not need to test everything. Pick a section, play it, and report what you saw.
+- Start a **NEW game**. Old saves do not work.
+- Pick any difficulty. Story is fine for testing.
+- You do not have to do everything. Even ten minutes of play and a short report helps.
+- Save before you try something, so you can go back.
+
+## The quick check (about ten minutes)
+
+Tick off what you try. Write down anything odd.
+
+1. **Start.** Make a character. Do you reach the map without an error message?
+2. **Menus.** Open Camp > The Chronicle. Open Reports (the map bar) and look at the character report and the Chronicle of Deeds. Do the screens open and read well? Are any words odd (like {!} or "culture 1")?
+3. **A town.** Enter a town and choose "Walk the quarters". Visit a quarter and speak to someone. Are people standing in sensible places?
+4. **A story.** Talk to a tavern keeper or a villager and ask about work or news. Accept a story. Follow it for a few steps. Can you always find something to do next? Are greyed options explained?
+5. **Finish a story** (any ending). Did you get the reward it promised? Does it show in the Chronicle of Deeds under "Stories told"?
+6. **A fight.** Play one battle (a bandit group is fine). Try the keys: B (battle cry), N (rally), H (shield wall). Does it work?
+7. **A lord.** Talk to a lord. Try "What do people say of me?" and "What do you think of your liege?".
+8. **A companion** (if you have one). Ask "How do you find the company, and me?".
+9. **Time.** Let the game run for a week or two of game days. Do any errors pop up?
+10. **Speed.** If your PC is old or slow, tell me how the game runs.
+
+## If you want to test more
+
+Pick one of these and play it for a while:
+
+- **Origins:** start a new game with a different origin. Does the opening make sense?
+- **Tournament:** go to a town with a tournament and join the festival. Do the bracket and the events work?
+- **A great story:** ask around for the Emperor's Regalia (a scholar in Zendar), Blood and Ashes (your first week), or the Pale Fever (when the plague starts).
+- **Enlisting:** join a lord's army and wait for a battle. Does "Take your place in the line!" work?
+- **Your own settlement or kingdom:** if you get there, tell me what breaks.
 
 ## How to report a problem
-Post in this item's Workshop comments or in the Discussions tab with:
+
+Post in the mod's Workshop **Comments** or **Discussions** with:
 
 - **What you did** (menu names, who you talked to, the town).
 - **The in-game day** and your difficulty.
-- **Any red error text** (a screenshot of the message log is ideal).
-- For a crash: the file *rgl_log.txt* from your Warband folder, and whether you were in a battle, town, menu or on the map.
-- Options > Debug tools > **Diagnostics** shows the save version and the state of every system: paste it if you can.
+- **Any red error text** (a screenshot helps).
+- For a **crash**: the file *rgl_log.txt* from your Warband folder, and whether you were in a battle, a town, a menu or on the map.
+- Options > Debug tools > **Diagnostics** shows the state of every system: paste it if you can.
 
-## New in version 8 - please try these first
-These are new and have only been played briefly:
-
-- **Walk-in places:** walk into a town's market, Low Town, guild hall, church and drill yard, a castle hall and a village green. Is each person standing at their post (not in a heap at the entrance)? Can you talk to them?
-- **The harbour:** in a harbour town (Sargoth, Tihr, Praven, Wercheg, Rivacheg, Yalen, Jelkala, Shariz), walk down to the waterfront. Does the pier start on the beach and stay above the water? Is the harbourmaster at the foot of the pier? Anything floating or buried?
-- **Personal stories:** talk to townsfolk and villagers; several offer a story of their own. Does each step lead somewhere you can reach, and does the ending give what it promised?
-- **Enlisting:** enlist with a lord and wait for a battle. Does "Take your place in the line!" take you into the fight? Does the camera stay with your lord afterwards?
-- **The start:** a new game should show the origin choice, the start rules, and then the welcome message, in that order. "Send word to your companions" should send someone to the nearest tavern.
-- **Performance:** if you play on an older or weaker PC, tell us how it runs.
-
-## Highest priority (most likely to break)
-These touch Native's battle and encounter code, so a crash or odd behaviour is most likely here. Reports on these are especially useful, even if all is well:
-
-- **Sally out** of a besieged fortress (siege menu > Sally out).
-- **Poisoning a well:** disguise at an enemy gate, carry the vial, find the well in the town.
-- **Cellar brawl** in Low Town (real fist fight in the arena).
-- **Change sides** when you come upon a battle (does the battle really put you on the other side?).
-- **Start as a king** or as a sworn vassal (start-rules menu), then open the Crown menu.
-- **Difficulty:** try Gentle or Story and also Hard. Does Gentle feel really easy? Does Hard feel fair?
-
-## Test plan
-### Setup
-
-- Camp > The Chronicle > Options: turn "Debug messages" ON. A "Debug tools" option appears on the same page.
-- Debug tools gives: +10000 gold, +200 renown, +20 trust/notoriety/piety, 20 knights, fire an event, start the next quest, summon the Horde / the rival, begin or end a world crisis, a grown heir, a lord's petition, +5 legacy, jump to landmarks, and Diagnostics (save version, day, milestones, quests, endings, every system's state). If something breaks, note: what you clicked, the day, and any red error text (a screenshot of the message log is ideal).
-
-### Smoke test - does every screen open and close cleanly?
-
-- ☐ Right after the start pop-ups: the Welcome pop-up appears once; a "Tip:" line appears every 3 days after that.
-- ☐ Camp > The Chronicle hub: header shows season, year, day, standing, milestones (and heir / world crisis when present).
-- ☐ Records: Active affairs (+ Commitments, + Finished), Standing, Statistics (scroll the whole screen), Journal, Goals, Chronicle, Realms, Tavern talk, Ledger. Each Back returns to Records.
-- ☐ Your house: heir text, legacy points, boons (only with points), officers (only with a fief).
-- ☐ Guide: all 12 pages open and return.
-- ☐ Options: both pages show On/Off correctly and every toggle flips; Difficulty cycles Story > Gentle > Standard > Hard > Brutal.
-- ☐ Town menu: WR options sit together above "Leave". Town affairs > Guilds / Services (the physician is in Services when wounded).
-
-### Gameplay checks
-
-- **Events:** ☐ Debug > fire event ~10 times near different kingdoms' towns: kingdom events match the nearest town.
-- ☐ With two companions from a pair (Borcha+Marnid, Rolf+Katrin, Baheshtur+Matheld, Ymira+Deshavi, Firentis+Artimenner, Alayen+Klethi) banter events can appear.
-- **Quests:** ☐ Tavern talk lists quests; start one in its town; the Active affairs page shows the next town and distance.
-- ☐ A companion's first quest, then its second act ("cq2") appears in Tavern talk while they ride with you.
-- ☐ Radiant quests: The Ransom Courier (fight OR pay 300), The Trader's Bargain (credit branch can fail).
-- **Crises:** ☐ Debug > Begin a world crisis. Town menu shows "The troubles of the age"; Commitments shows progress. Winter: give 10 grain.  Succession: back a claimant (500), then win battles.  Comet: watch every 4 days. Iron Tide: four "Iron Tide Free Company" parties roam and burn villages; beat them.
-- ☐ Debug > End the crisis: result pop-up; with enough progress, reward + possible ending; "crises survived" +1.
-- **House:** ☐ Debug > grown heir. Your house > Pass the mantle: confirm screen lists what carries over; afterwards your name changes, gold -20%, renown -10%, you get the Heirloom Blade, +3 legacy, tutoring skills.
-- ☐ Permadeath ON + heir: lose a battle and be captured. ~20% chance you die: the heir screen appears, then normal captivity continues. Without an heir: "Fallen in Battle" and the game ends.
-- ☐ Debug > petition: every answer works; accept 3 times from one lord -> "sworn friend" message. Loan: repaid with interest after 4 weeks.
-- **Living world:** ☐ Minstrels, Tinker's Cart, Travelling Envoy appear from ~day 4; Refugees appear near looted villages. Ride into them: a conversation (not a menu) offers choices; after one choice they only greet you.
-- ☐ Field battles: sometimes rain, snow (winter) or fog with a message. Archers are a bit worse; after Rally (N) or Volley (J) ends, archers go back to the weather-reduced aim (not to full).
-- **Gear:** ☐ Town merchants sometimes sell Swadian Blue Tabard, Vaegir Crimson Tunic, Nord Raider's Sword, etc.
-- **Balance:** ☐ Note how fast gold and renown grow by day 50 / 100 / 200 on Standard. Too fast or too slow? Feedback on this is welcome.
-
-
-## Test plan, continued
-### The newest systems(test these in this order)
-
-- **Start:** ☐ New game: origin menu, then the rules menu (crisis day, Horde day, total war, village). Chronicle hub has at most 10 options.
-- **People:** ☐ Enter a town on foot: NPCs stand in quarters; talk to a few; Reports > People you know grows; Ask around lists who is in town.
-- **Faith:** ☐ Piety rank popup; Holy Muster; vows need piety 20; feast days; Bells of Ymra arc.
-- **Law:** ☐ Steal or rob: Wanted rises; gate check at 2+; bail; chain gang; Wardens' League clerk; Justiciar arc.
-- **Economy II:** ☐ Smith commission, parcels, wagon, cattle, work sites, hunting grounds, budget report.
-- **War II:** ☐ Order of battle prompt; stances; mutiny at low morale; prisoner menu; level-13 trait (key V); Free Companies captain.
-- **Map II:** ☐ Inns, clan camps, crossings, hidden places (rumours), mounds after a lord dies, voyages, secret passes.
-- **Kingdom II:** ☐ As king: Crown menu -> treasury, policies, laws, estates, style; coronation once; riots; tier upgrades; manors; lances; spoils options on capture.
-- **Diplomacy II:** ☐ Treaties (trade/defensive/alliance) expire and fall; infamy on war without casus belli; envoy after 7 days; dictate peace with war score; realms report.
-- **Character:** ☐ Traits report; dilemmas; prestige/class in Standing; castle hall gate for Commoners; old friend event day 20-40.
-- **Quests III:** ☐ Five arcs (debug: start next quest), 20 side quests, bounty/leader quests, Grey Road jobs, steward emergencies.
-- **Town life:** ☐ Lessons (10000), drill, symbel, songs, cellar ring, joust ladder, horse race, champion challenge.
-- **Reports:** ☐ Reports > More reports: every page opens with no data and with data.
-- **Finale:** ☐ Ending -> gather the company; final score -> deeds; triumph on castle_taken as king.
-- **Debug:** ☐ Options > Debug tools has new V7 pages for triggering events.
-
-### Known limits (by design)
-
-- Warband cannot carry anything between separate saves; legacy works between generations inside one save.
-- Kingdom gear is sold in every town (rarely), not only in its own kingdom.
-- Weather only in open-field battles (not sieges, towns or ambush interiors).
+Reports of "it works fine" are useful too.
