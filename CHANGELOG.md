@@ -9,6 +9,8 @@
 ### Fixed
 
 - **Tournament events were fought with no equipment.** Every festival event put the fighters in the arena with empty hands, so the duel, the team knockout and the joust all came out as a fist fight. Each event now has its arms: the duel and the team events the arms you choose, the joust a horse, lance and shield, the archery events a bow and ten arrows. The same fault is fixed in the arena bouts outside the festival (the town champion, sparring, the joust ladder, a lord's challenge, a duel on the road).
+- **Sites in the wrong place on the map.** Landmarks, inns, camps and other sites were put at a random spot near their town, so one could stand in a river, a bridge in a dry valley and the Hall of the Hill Clans on a river bank. Every site now has a fixed place checked against the map: dry land for all, high ground for the hill sites, the coast or a river bank for those by the water, and the Veluca Bridge at the end of a real bridge. A game already in progress moves its sites to the new places within a day.
+- **"Crossroads Gallows" renamed.** Calradia's map has no roads, so the landmark is now Gallows Hill, and it stands on a hill.
 - **Wrestling could not be won.** A fist did no damage through the padded tunic, so neither man ever went down and the bout never ended. Every blow that lands now counts: three blows are a fall, three falls win.
 - **Stuck in a contest.** In the joust and in wrestling the Tab key now yields the contest (a loss) instead of doing nothing.
 - **Archery targets half in the ground.** The targets of the archery and horse archery contests now stand at chest height.
