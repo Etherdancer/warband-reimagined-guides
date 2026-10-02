@@ -48,7 +48,9 @@ Pick one of these and play it for a while:
 
 ## How to report a problem
 
-Post in the mod's Workshop **Comments** or **Discussions** with:
+The easiest way is the **bug report page: [warband-reimagined-bugs.pages.dev](https://warband-reimagined-bugs.pages.dev/)**. Say in a sentence what went wrong; a screenshot, your save file and your log are optional, and the page shows the folder your saves are in. Nothing is ever sent by the game or the mod: only what you choose to send yourself.
+
+You can also post in the mod's Workshop **Comments** or **Discussions**. Either way, it helps to include:
 
 - **What you did** (menu names, who you talked to, the town).
 - **The in-game day** and your difficulty.
