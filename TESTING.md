@@ -1,6 +1,6 @@
 # Warband Reimagined - Testing Guide
 
-Thank you for helping. **Version 11 has not been play-tested**, so you may be the first person to see some of it. Play the way you like, and tell me what looked wrong.
+Thank you for helping. **Version 11.5 has not been play-tested**, so you may be the first person to see some of it. Play the way you like, and tell me what looked wrong.
 
 ## Before you start
 
@@ -57,3 +57,12 @@ Post in the mod's Workshop **Comments** or **Discussions** with:
 - Options > Debug tools > **Diagnostics** shows the state of every system: paste it if you can.
 
 Reports of "it works fine" are useful too.
+
+## New in version 11.5: please look at these
+
+- A story fight against a band: you can always "Charge", even when you are notorious or your road record is clean.
+- A story that names a person at a town (a reeve, a miller, an abbot): look for the "Look for the ..." line in that town's quarters menu.
+- Enlist in a lord's host, then take a war story: its discharge ending should end your service.
+- A lesson, a drill, a landmark gift, a plunder: after taking it, the option should say when it will be there again.
+- Sally out of a besieged fortress: the lent soldiers go back an hour after the battle.
+- A coronation: pick a way to be crowned once; the page should close.

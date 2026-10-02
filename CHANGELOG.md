@@ -2,6 +2,63 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.5 - fixes from three full audits
+
+**Saves from version 11.3 and 11.4 keep working.** No new game is needed. (Version 11.4 was never published; its changes are listed below and are part of this version.)
+
+### Fixed
+
+- **Enemy bands are always hostile.** Bounty hunters, assassins, your rival, avengers, toll-post bands, story bands and village raiders no longer turn neutral or friendly when you are notorious or your road record is clean. A story fight against a band is always a fight.
+- **The fences no longer pay absurd sums.** A quiver of arrows or a sack of spice used to sell for a thousand denars or more. Stacks pay their real value, and your story rewards, tokens and relics are never bought.
+- **The coronation page can be left,** and each choice pays once.
+- **War stories fit enlistment.** They are offered only while you serve in a host, and their discharge endings really discharge you.
+- **Story people can be found.** A reeve, miller or abbot a story names at a town can be looked for from that town's quarters menu. The Iron Door and the Emperor's Hunting Hall are on the map once their story is accepted; three old barrows stay on the map for the mound stories.
+- **Councils cannot stand still for ever** when a king's realm has fallen or a shady member will not meet you. A lost roll in the renegade, bandit-leader and sheriff stories brings you back to the page that offers the fight, instead of paying for a battle you never fought.
+- **Road stories name the right towns,** and the marshal's calls come only where the marshal's town is your realm's.
+- **The game no longer hangs late in a long campaign** when all four world crises are over.
+- Timed services at map sites no longer reset when you visit another town. Taverns count as indoor rooms for story scenes. Escort raiders no longer share slots with your patrols. Hunting-ground guards must be beaten before you claim their prize; a razed clan camp returns; the mound oath names the right realm; a lord's lent soldiers return after a sally; the beacon no longer lights against its own watch; deer herds stay near their hunting ground; the rival's bounty grows; dilemmas come again; road captain 17 can be sold.
+
+### Changed
+
+- **Repeatable gifts now have a cooldown:** landmark gifts and rests, lessons, drill and sparring, feasts, jousts and cellar-ring runs, monastery plunder and donations, horse theft, village drills, the rented room, parley with besiegers, tribute threats and the Pale Fever work (one task a day). Tools, food and cattle cannot be bought cheap and sold dear any more.
+- Promote-all only promotes what your purse covers. An overdue bank loan is collected from your deposit and purse. A king's own war is not ended by war weariness. Spawned people stand calm instead of with raised fists.
+
+### Not in this version
+
+- **This build has not been played yet.** Please report problems.
+- Still to come: stories that remember what you did in a scene (so a page does not repeat or contradict it), and scene layouts measured from the scene files (tents on slopes, crowds in the clan's own dress).
+
+---
+
+## Version 11.4 - fixes from a full audit
+
+**Saves from version 11.3 keep working.** No new game is needed.
+
+### Fixed
+
+- **Enlisting in a lord's host, or taking a Free Companies war contract, no longer ends in war with the Sarranid Sultanate.**
+- **Battles you join are credited to the right side.** Helping a caravan or pilgrims against bandits no longer counts as robbing them, and beating the attacking band now pays its purse and counts for your stories.
+- **Story scenes inside buildings can be done.** Chests, runners and enemies are placed inside the room; a freed prisoner is no longer cut down by his guards; the false "He is gone" in the first second is gone; three scenes that ran in the wrong town now run at the right place.
+- **Two stories reach their endings:** the Free Companies' sergeants' quarrel (and the Captain's Brigandine) and the Deserter Captain. Fourteen more stories gained endings and clues that nothing used to reach.
+- **Several stories at one town take turns** on the town menu line, instead of the first hiding the rest.
+- **The level-13 battle trait and other pop-up pages are no longer lost** when two fall due at once.
+- **A full pack no longer loses a reward:** the item goes to your inn chest and a message says so.
+- **The trade ledger shows true prices.** Festival bets pay what the page says on every difficulty. The dice table is even for both sides.
+
+### Changed
+
+- **Road escorts are earned.** Guarding a Guild convoy, the king's silver or an envoy now brings raiders on the road, and the fee, trust and standing are paid when you beat them.
+- **Rides and their riders:** the bands that wait on a ride grow with you and vary from story to story.
+- **Services belong to a town:** a lesson from the smith in one town no longer delays the smith in another.
+- **A lord who dies ends the stories that wait on him** instead of leaving them stuck.
+- The "Companions only" order fades only your own soldiers. More roaming parties can be on the roads at once.
+
+### Not in this version
+
+- **This build has not been played yet.** Please report problems.
+
+---
+
 ## Version 11.3 - every story has something to do
 
 **Saves from version 11.2 keep working.** No new game is needed. A story you have already begun may open on its new first step.

@@ -1,12 +1,12 @@
 # Warband Reimagined - guides
 
-Guides for the Steam Workshop mod **Warband Reimagined** by Etherdancer. Current version: **11, "The Free Road"**.
+Guides for the Steam Workshop mod **Warband Reimagined** by Etherdancer. Current version: **11.5** (the 11 "Free Road" line).
 
 - [Full feature list](FEATURES.md) - everything in the mod, grouped by theme
 - [Changelog](CHANGELOG.md) - what changed in each version
 - [Testing guide](TESTING.md) - what to check and how to report it
 
-**New game required.** Saves from older versions do not work with version 11.
+**New game required.** Saves from versions before 11 do not work with version 11. Saves from 11.3 and later keep working.
 
 **Not play-tested yet.** The mod is built and checked by tools, but this version has not been played through. Feedback is very welcome.
 
