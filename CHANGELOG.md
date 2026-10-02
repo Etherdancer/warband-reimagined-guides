@@ -2,6 +2,30 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.3 - every story has something to do
+
+**Saves from version 11.2 keep working.** No new game is needed. A story you have already begun may open on its new first step.
+
+### New
+
+- **Every one of the 372 stories now has something to do, not only something to read.** On every way to a good ending you must, at least once, do a thing with your hands and your horse: catch a runner through a market or a yard, follow a man without being seen, carry a chest out past guards, hold a gate, a lane or a barn door against a crowd, keep a watch through the night, free a prisoner from a cell, fight a duel in the arena, fight a band on the road, or bring a wagon, a herd or a pilgrim safely through. Choosing a clever option can still help, but it no longer replaces the deed.
+- **Journeys.** Many stories now send you out of town: a timed ride to a place, with riders waiting for you on the way, or a short trip to the village where a witness, a boat, a field or a mason is. The hunts and fights of the bounty, renegade and sheriff jobs happen in the hills instead of in the town.
+- **Scenes at the places of the map.** A scene can now take place in an inn yard, a clan camp, a toll post, a hunting ground, a quarry, a mine, an abbey or on open ground at a landmark or a village, not only in the town's quarters.
+- **Night watches.** The watch scenes can be done only after dark; by day the option is greyed and says so.
+- **Companions' fights are yours.** Where you used to watch or coach a companion in a fight (five stories), you now fight in the arena in their name.
+
+### Changed
+
+- **Failed rolls are remembered one by one.** Before, two different skill checks in one story could share a memory slot, so failing one could grey out the other.
+
+### Not in this version
+
+- Shooting and racing scenes, and a companion who fights beside you in the arena. Wolves and boar are still met in conversation, not fought.
+- Two stories (the sword in the burial mound, and the vigil of the oath-dead) stay in one place: burial mounds are raised during play and have no fixed spot on the map.
+- **This build has not been played yet.** The new scenes and rides are checked by tools only. If a scene does not start, a runner stands still or a ride never ends, please report it with the story's name.
+
+---
+
 ## Version 11.2 - fixes for tournaments, merchants, the smith and townsfolk news
 
 **Saves from version 11 keep working.** No new game is needed for this update.
@@ -19,11 +43,15 @@
 - **Crash when speaking with the Master Smith.** Choosing "Speak with the Master Smith" in a town's Market Quarter could close the game. His list of replies was far longer than anyone else's. Commissions are now asked under "I want to commission a piece." and repairs and reforging under "I want work done on my gear."
 - **Townsfolk gave a wrong line as news.** Asking "What news do you hear?" could be answered with an unrelated line ("You got keys of dungeon."). The same fault put the wrong text on some messages when you walk into a place. All of these now show the text that was meant.
 - **Empty merchants at the start of a game.** A character who begins inside a town, such as the merchant heir, found every merchant with no goods and no money until some time had passed on the map. Merchants in every town are now stocked when a new game starts.
+- **"Attack the camp" did nothing.** At the clan camps the fight never started and you were left on the map. It starts at once now, and so do the fights that stories, landmarks, river crossings and work sites announce.
+- **People standing inside the tent** at the walk-in clan camps (and inside the cart at the quarry): the tents and carts are moved clear of them.
 
 ### New
 
-- **A page for reporting bugs:** [warband-reimagined-bugs.pages.dev](https://warband-reimagined-bugs.pages.dev/). Say in a sentence what went wrong; a screenshot and the game's log file are optional, and the page shows where the log is. Nothing is ever sent by the game or the mod: only what you choose to send yourself.
-- **A debug log for bug reports.** With Edit Mode switched on in the game's launcher, the mod writes what it does (pages, choices, dialogue, missions) into the game's own log file on your computer, so a report can show exactly what led to a fault. With Edit Mode off, which is the normal setting, nothing is written. The new Game Concepts page "The debug log" explains it.
+- **A page for reporting bugs:** [warband-reimagined-bugs.pages.dev](https://warband-reimagined-bugs.pages.dev/). Say in a sentence what went wrong; a screenshot and your save file are optional, and the page shows the folder your saves are in. Nothing is ever sent by the game or the mod: only what you choose to send yourself.
+- **A debug log for bug reports, kept in your save.** The mod keeps a trail of what happened in your game (pages, choices, dialogue, missions) inside the save file, so a save sent with a report shows exactly what led to a fault. Nothing has to be switched on and nothing leaves your computer unless you send the save. (The earlier Edit Mode log is gone: it did not work on Linux.) The Game Concepts page "The debug log" explains it.
+- **Single combat is fought, not rolled.** Where a story has you meet a champion, fight a duel or stand a trial by combat, you now fight it yourself in the nearest arena with the arena's arms (twenty stories, and the pit of the Old Imperial Arena). The option says so: "You fight this yourself."
+- **Trouble at the inn is played.** Ask an innkeeper whether there is trouble: robbers, stable thieves by night or drunken carters now come out into the inn yard, and you deal with them in person.
 
 ### Changed
 

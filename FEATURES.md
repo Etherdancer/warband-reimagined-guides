@@ -15,6 +15,7 @@ The heart of the mod: **372 stories**, every one on the same story engine, so th
 - **Choices with reasons.** An option you cannot take yet is shown greyed, with the reason in brackets (a skill, a rank, an item, a friend, a trait).
 - **An open path at every step.** There is always a way forward that needs no special skill and no gold, though it may cost you something else.
 - **Many endings.** Each story has several endings, including failing it. Each ending changes the world: gold and renown are the small part; people, places, laws, friendships and rumours change too.
+- **Something to do in every story.** On every way to a good ending you catch, follow, carry, hold, watch, free, fight, escort or ride: a clever answer can help, but it never replaces the deed. Many stories also send you out of town to a village or a far place, with riders waiting on the road.
 - **Many kinds of step.** Talk to someone, go to a place, wait out the days, face a trial, sit on a council that votes, escort someone, chase a runner, hunt a band across the map, or walk into a scene where you fight, search, sneak or hold a line.
 - **Consequences everywhere.** Honour, trust, notoriety, piety, villages' prosperity, lords' relations, companions' opinions, the law, the organisations and the rumours in the taverns all react. Stories you finish are listed by name in your Chronicle of Deeds.
 - **Hunts that vary.** Bounties, bandit-leader hunts, renegade hunts, the marshal's calls, courier runs and the sheriff's jobs have a twist picked by chance when the work is done.
