@@ -2,7 +2,7 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
-## Version 11.5 - fixes from three full audits
+## Version 11.5 - many fixes
 
 **Saves from version 11.3 and 11.4 keep working.** No new game is needed. (Version 11.4 was never published; its changes are listed below and are part of this version.)
 
@@ -21,6 +21,7 @@
 ### Changed
 
 - **Repeatable gifts now have a cooldown:** landmark gifts and rests, lessons, drill and sparring, feasts, jousts and cellar-ring runs, monastery plunder and donations, horse theft, village drills, the rented room, parley with besiegers, tribute threats and the Pale Fever work (one task a day). Tools, food and cattle cannot be bought cheap and sold dear any more.
+- **The 42 career "endings" are now called Legacies**, because the game goes on after one (a story still has endings). Menus, guide pages, the Chronicle and these guides use the new word; the points that heirs inherit are still "legacy points".
 - Promote-all only promotes what your purse covers. An overdue bank loan is collected from your deposit and purse. A king's own war is not ended by war weariness. Spawned people stand calm instead of with raised fists.
 
 ### Not in this version
@@ -30,7 +31,7 @@
 
 ---
 
-## Version 11.4 - fixes from a full audit
+## Version 11.4 - many fixes
 
 **Saves from version 11.3 keep working.** No new game is needed.
 
@@ -144,7 +145,7 @@ Version 10 was about stories. Version 11 is for the rider who wants no story at 
 - **Rich by riding:** purses, town bounties, 25 named captains' prizes, tokens for a master smith's masterwork forge, ransom for captains, and a weekly stipend at a hundred parties broken.
 - **Strong by riding:** every ten parties broken adds a man to your company's limit. Five new milestones (157 in all).
 - **Your own patrols:** raise them from a fief's garrison, give orders, pay wages. They run down small bands and keep raiders away. Ravenhold and your outposts can post one too.
-- **The raider road:** notoriety ranks with perks, Raider's Bluff as a haven to build up, black rents from villages, tolls from river crossings, a Lookout, a Slaver, three Reaver Captains with a Black Board of work, six named hunters, and an ending of its own (42 endings in all). It pays more and costs friends.
+- **The raider road:** notoriety ranks with perks, Raider's Bluff as a haven to build up, black rents from villages, tolls from river crossings, a Lookout, a Slaver, three Reaver Captains with a Black Board of work, six named hunters, and a Legacy of its own (42 Legacies in all). It pays more and costs friends.
 - **25 road stories** (372 stories in all): hunt a band, guard silver, a convoy or a relic, recover robbed silver, retake a crossing, kings' requests at high renown, and raider work from the Black Board.
 - **Roads that change:** war doubles patrols and thins convoys; feast weeks bring pilgrims; a claimant's host may seize a river crossing; clans raid the enemies of their friends.
 - **Finds and prices:** convoys and horse traders trade at road prices; a saint's reliquary to return to the Faith or sell; imperial curios for the Diggers.
@@ -163,7 +164,7 @@ Version 10 was about stories. Version 11 is for the rider who wants no story at 
 
 - The weekly budget page (Reports > "Your income and costs, week by week") showed wrong numbers; it now shows the stored figures for each week.
 - The bishop offered the same blessing twice.
-- Smaller repairs from a full code audit of the mod.
+- Smaller repairs across the mod.
 
 ---
 
@@ -286,9 +287,9 @@ Version 7 filled Calradia with people and systems. Version 8 makes them deeper: 
 - **Character:** twenty graded traits, dilemmas, prestige and social class, sworn brothers.
 - **Quests III:** five new story arcs, twenty new side quests, bounties, Grey Road jobs, steward emergencies.
 - **Town life:** lessons, drill, feasts, the cellar ring, jousts, horse races, champions.
-- Start-of-game rules, reports, the company gathering at an ending, 41 endings in all.
+- Start-of-game rules, reports, the company gathering at a Legacy, 41 Legacies in all.
 - Difficulty reworked into five tiers (Story, Gentle, Standard, Hard, Brutal).
-- Fixes from a full code audit: scripts that failed silently, "change sides" really switches sides, options that took gold you did not have are hidden until you can pay, a Native typo in the courtship check.
+- Fixes: scripts that failed silently, "change sides" really switches sides, options that took gold you did not have are hidden until you can pay, a Native typo in the courtship check.
 
 ## Version 6
 
@@ -305,8 +306,8 @@ Version 7 filled Calradia with people and systems. Version 8 makes them deeper: 
 **New game required.**
 
 - The statistics screen and the soldier's career (enlisting in a lord's host).
-- Fixes from the first code audit.
+- Fixes and repairs.
 
 ## Versions 1 to 4
 
-- The foundations: origins, reputation tracks, milestones, endings, story arcs, side quests, events, landmarks, legendary items, new troop lines on vanilla models, battle orders, morale and routing, sieges, seasons, organisations, settlements and the royal court.
+- The foundations: origins, reputation tracks, milestones, Legacies, story arcs, side quests, events, landmarks, legendary items, new troop lines on vanilla models, battle orders, morale and routing, sieges, seasons, organisations, settlements and the royal court.

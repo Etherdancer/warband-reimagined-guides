@@ -134,7 +134,7 @@ For those who want to be the villain. It pays more, and it costs friends.
 - **The Black Board:** work from three Reaver Captains (take a wagon, run off a herd, ambush the riders, burn for a paymaster, spring a chain gang).
 - **People:** a Lookout in three inns, a Slaver in the Sultanate's Low Towns.
 - **The price:** six named hunters ride for you, a hunter can shut the Bluff, robbed goods draw the gate search, and the kingdoms' Wanted levels rise.
-- **Ways out and up:** the Outlaw King's offer, a Wardens' amnesty, and an ending of its own, Dread of the Roads.
+- **Ways out and up:** the Outlaw King's offer, a Wardens' amnesty, and a Legacy of its own, Dread of the Roads.
 
 ## 8. Choose who you were
 
@@ -151,7 +151,7 @@ Character creation runs in one flow: father, youth, adulthood, why you left, wha
 - Social class and prestige; a status ladder from Nobody to Sovereign.
 - **Twenty traits** that grow from what you actually do, each grade giving a skill point.
 - **One-screen character sheet** (Reports > View character report): every standing value, what it does for you now, what the next step brings, with the law, organisations, house, holdings, the road, friends, enemies, age, traits, and your stories.
-- **157 milestones** with real rewards, **42 endings** with epilogues, a **Chronicle of Deeds** (milestones, endings, every story you have ended and how, the people you have met) and a statistics screen with achievements.
+- **157 milestones** with real rewards, **42 Legacies** (the great conclusions of a career) with epilogues, a **Chronicle of Deeds** (milestones, Legacies, every story you have ended and how, the people you have met) and a statistics screen with achievements.
 - Optional permadeath, with your heir carrying on.
 
 ## 10. People and places
