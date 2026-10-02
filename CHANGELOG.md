@@ -20,6 +20,11 @@
 - **Townsfolk gave a wrong line as news.** Asking "What news do you hear?" could be answered with an unrelated line ("You got keys of dungeon."). The same fault put the wrong text on some messages when you walk into a place. All of these now show the text that was meant.
 - **Empty merchants at the start of a game.** A character who begins inside a town, such as the merchant heir, found every merchant with no goods and no money until some time had passed on the map. Merchants in every town are now stocked when a new game starts.
 
+### New
+
+- **A page for reporting bugs:** [warband-reimagined-bugs.pages.dev](https://warband-reimagined-bugs.pages.dev/). Say in a sentence what went wrong; a screenshot and the game's log file are optional, and the page shows where the log is. Nothing is ever sent by the game or the mod: only what you choose to send yourself.
+- **A debug log for bug reports.** With Edit Mode switched on in the game's launcher, the mod writes what it does (pages, choices, dialogue, missions) into the game's own log file on your computer, so a report can show exactly what led to a fault. With Edit Mode off, which is the normal setting, nothing is written. The new Game Concepts page "The debug log" explains it.
+
 ### Changed
 
 - **Quest offers are easier to understand.** 172 offers were rewritten so that each one says who is asking, what is wrong and what they want from you. The stories themselves are unchanged.
