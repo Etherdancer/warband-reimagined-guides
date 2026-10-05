@@ -2,6 +2,7 @@
 
 Guides for the Steam Workshop mod **Warband Reimagined** by Etherdancer. Current version: **11.6** (the 11 "Free Road" line).
 
+- [Player's roadmap](ROADMAP.md) - a route through the game: what to do first, where the big stories begin and what each needs
 - [Full feature list](FEATURES.md) - everything in the mod, grouped by theme
 - [Changelog](CHANGELOG.md) - what changed in each version
 - [Testing guide](TESTING.md) - what to check and how to report it
