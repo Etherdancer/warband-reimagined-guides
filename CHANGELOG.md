@@ -19,6 +19,7 @@
 ### Changed
 
 - **Old kindnesses pay off.** Church policy, the inns' league, the road toll, the clans' friendship, the oath-dead, hidden places and your family's favour now leave a small weekly reward.
+- **Scenes leave a mark.** When you win a scene (a hold, a catch, a night watch, a storm), the next page now says so under its text ("Done so far: ..."), so the story remembers what you did. It shows only if you really did it.
 - **A real arrival.** A new game now starts with you riding into the town through its gate, with guards, relations and the Leave option working as in any visit. The town menu gives news, notices and events their own page, and the rules page is shorter.
 - **People stand where you can reach them.** In every walk-in place, people are moved onto ground you can walk to, away from walls, props and each other; the walled inn yard, the abbeys, the salt pans and the iron workings have their own spots.
 - **Crowds dress like the place.** Townsfolk, country people and the watch wear the clothes of the town's own culture, with women's dress for women.
