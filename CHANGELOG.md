@@ -2,6 +2,65 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.6 - stories that fit together
+
+**No new game needed.** Saves from version 11.5.3 keep working. A story you are halfway through may restart its current step.
+
+### Fixed
+
+- **The Low Town and other walk-in places.** People there no longer answer with "Surrender or die"; they talk like townsfolk again.
+- **Stories that went nowhere.** Five journeys started at the place they were meant to end (the pardon petition, the soldier's discharge, the Patriarch's summons, the bishop's inspector, the queen's bier); each now begins somewhere else, with a real road to ride.
+- **Chases and rides.** The Black Khergit riders and the Khan's baggage train now have a real head start to catch up on, and the ride to Yalen in "Letter by Sea" gives you enough time.
+- **What you found is remembered.** Winning a scene or finishing a ride now tells the next page what you found, so it no longer starts from nothing.
+- **Money that bought nothing.** In stories where you paid for something that changed nothing later, a good ending now gives experience for the outlay.
+- **Borcha, the miners, the Great Heist, the Bells of Saint Ymra.** Borcha's court route has its own ending and a lost argument no longer hangs him; the miners' strike always has a way forward; the Heist's take follows what you chose to carry out; the bell must be taken down before it can be sold or kept.
+- **Small texts.** Baheshtur's clan elder is in Peshmi; the king in "The King's Ear" is the ruler of the town's own kingdom.
+
+### Changed
+
+- **Old kindnesses pay off.** Church policy, the inns' league, the road toll, the clans' friendship, the oath-dead, hidden places and your family's favour now leave a small weekly reward.
+- **A real arrival.** A new game now starts with you riding into the town through its gate, with guards, relations and the Leave option working as in any visit. The town menu gives news, notices and events their own page, and the rules page is shorter.
+- **People stand where you can reach them.** In every walk-in place, people are moved onto ground you can walk to, away from walls, props and each other; the walled inn yard, the abbeys, the salt pans and the iron workings have their own spots.
+- **Crowds dress like the place.** Townsfolk, country people and the watch wear the clothes of the town's own culture, with women's dress for women.
+- **Quest log.** Two quests of the old game (capture a lord, night bandits) had placeholder lines in the log; they now read as real text.
+- **Money and rewards.** A good ending you paid for no longer buys rank, a dishonest loot ending costs honour, back pay is not paid twice, and help you paid for along the way makes a story's later skill checks easier.
+- **Stories that could stall.** Clocks on five talks, trial evidence on the lords' road, a fight in the Iron Tide and the Horde's field now always lead somewhere.
+- **Battle keys.** The guide's page on keys in battle lists every key the battle uses.
+- **Camps.** Clan camps are filled with that clan's own people. Tents, carts and fires in camps, crossings, mounds and story places are placed on level ground clear of rocks and trees; a prop that finds no good ground is left out.
+
+## Version 11.5.3 - companions' gear screen fixed
+
+**No new game needed.** Saves from version 11.5 keep working.
+
+### Fixed
+
+- **The "after the battle" gear screen.** The companions' names now show, clicking one shows their settings, Auto Equip Companions equips them, and "Continue (Browse the loot)" opens the loot that is left.
+- **Walk the quarters.** The people waiting to be asked now stand behind one entry, so the Back option is always on screen.
+- **Wardens' League prisoners.** The bounty option appears only when you hold outlaw prisoners, and says the League pays for outlaws only.
+
+## Version 11.5.2 - saves fixed
+
+**Saves from version 11.5 keep working.** No new game is needed. Version 11.5.1 shifted some saved values, so a save made with it may show wrong numbers (for example a road duel stake of -1 denars); load a 11.5 save if you have one.
+
+### Fixed
+
+- **Wrong numbers in older saves.** The new screens of 11.5.1 moved other saved values out of place. Everything is back where 11.5 had it, and later versions will keep it that way.
+
+## Version 11.5.1 - companions' gear
+
+**Saves from version 11.5 keep working.** No new game is needed.
+
+### New
+
+- **Companions' auto-equip screen.** After a won battle, before the loot screen, choose a companion and set what goes in each of its four weapon slots (one-handed, two-handed, polearm, any melee, shield, bow, arrows, crossbow, bolts, thrown), whether it takes only blunt weapons, armour, and a horse. "Apply these settings to ALL companions" copies them; "Auto Equip Companions" lets everyone take the best loot, judged by battle stats and not by price (weapons by damage, reach and speed; armour by rating; horses by speed, manoeuvre, health, charge and armour); "Continue (Browse the loot)" goes on to the loot. A companion never takes what they lack the strength, skill or riding for, and gear they put down goes back into the loot.
+- **Prisoner limit grows with your party.** It is 20% of your party's size for each point of Prisoner Management (skill 1 is 20%, skill 5 is 100%, skill 10 is 200%).
+- **Prisoners eat less.** Each day the company gets back most of the food its prisoners cost, as grain.
+
+### Fixed
+
+- **Troop upgrades.** The Squire of the Lantern and the other new troop lines offered a wrong troop ("multiplayer end") to upgrade to. They now upgrade to the right one.
+- **Notes.** The realm notes list at most six lords, which should stop the game closing when Notes is opened.
+
 ## Version 11.5 - many fixes
 
 **Saves from version 11.3 and 11.4 keep working.** No new game is needed. (Version 11.4 was never published; its changes are listed below and are part of this version.)
