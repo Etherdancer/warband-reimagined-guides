@@ -24,13 +24,15 @@
 - **People stand where you can reach them.** In every walk-in place, people are moved onto ground you can walk to, away from walls, props and each other; the walled inn yard, the abbeys, the salt pans and the iron workings have their own spots.
 - **Crowds dress like the place.** Townsfolk, country people and the watch wear the clothes of the town's own culture, with women's dress for women.
 - **"Look for somebody who is waiting to be asked."** The page now lists only the people who have something to say to you, and its Back option is always the first line, so it can no longer be pushed off the screen. The entry shows only while somebody is waiting.
-- **Crossings, camps and workplaces are dressed for what they are.** The Jelkala Bridge, the Praven and Reyvadin fords, the Curaw Ferry, the Tulga Caravan Gate and the Halmar Toll Gate each have their own set of props, and so do the Hill Clans' hall, the Fen Folk's isle and the Oasis camp. The quarry, the logging camp, the hunting grounds and the burial mounds have more in them. The open meadow still has no river.
-- **Floating people.** Someone left standing in the air on the open meadow is put back on the ground.
 - **Quest log.** Two quests of the old game (capture a lord, night bandits) had placeholder lines in the log; they now read as real text.
 - **Money and rewards.** A good ending you paid for no longer buys rank, a dishonest loot ending costs honour, back pay is not paid twice, and help you paid for along the way makes a story's later skill checks easier.
 - **Stories that could stall.** Clocks on five talks, trial evidence on the lords' road, a fight in the Iron Tide and the Horde's field now always lead somewhere.
 - **Battle keys.** The guide's page on keys in battle lists every key the battle uses.
-- **Camps.** Clan camps are filled with that clan's own people. Tents, carts and fires in camps, crossings, mounds and story places are placed on level ground clear of rocks and trees; a prop that finds no good ground is left out.
+- **Camps.** Clan camps are filled with that clan's own people.
+
+### Known problem
+
+- **Open-ground places are not right yet.** At the river crossings, the clan camps, the burial mounds, the hunting grounds, the quarry and the logging camp, and in story scenes that take place on open ground, you may float above the ground or sink into it, and the place looks bare (the Jelkala Bridge has no bridge and no river). Their menus work as before. These places are being rebuilt for the next version: each moves to a real location with its own river, bridge, camp or ruin, on the right kind of land.
 
 ## Version 11.5.3 - companions' gear screen fixed
 
