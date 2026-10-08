@@ -29,7 +29,7 @@ Tick off what you try. Write down anything odd.
 
 How to use the order pages (F4 to F11) is in the [roadmap](ROADMAP.md), section 11. In short: choose who listens (1-9, or 0 for all), press the key of a page, then the key of the order. Field battles only, not sieges.
 
-**Six prepared test battles.** Options > Debug tools > Debug tools II > Battle and war > "Test battles for the battle orders." Each lends you the soldiers it needs, puts an enemy beside you and starts the fight; a yellow line in the log says which keys to try. The soldiers stay with you, so use a test save.
+**Six prepared test battles.** Options > Debug tools > Battle and war > "Test battles for the battle orders." Each lends you the soldiers it needs, puts an enemy beside you and starts the fight; a yellow line in the log says which keys to try. The soldiers stay with you, so use a test save.
 
 1. **A line and the shapes.** F5 F5: do your men form ranks facing the enemy? F1 F1 elsewhere: does the line move there? F5 F6, F5 F7, F5 F8, F5 F11: does each shape look like its name? Do men fight back when reached, or stand idle?
 2. **Archers.** Press 2, then F7 F5 (volleys): do they loose together? F7 F8 (skirmish): do they give ground?
@@ -58,8 +58,8 @@ Pick one of these and play it for a while:
 - **A great story:** ask around for the Emperor's Regalia (a scholar in Zendar), Blood and Ashes (your first week), or the Pale Fever (when the plague starts).
 - **Enlisting:** join a lord's army and wait for a battle. Does "Take your place in the line!" work?
 - **Your own settlement or kingdom:** if you get there, tell me what breaks.
-- **A long game:** past day 100, is the map still tidy? Options > Debug tools > Debug tools II > Roads, patrols and raiders has "Roads: count orphans".
-- **The places (new in 11.7):** Options > Debug tools > Debug tools II > Places and people has "Tour: walk into the next place." It walks you into all 37 rebuilt areas in turn. Does your character stand on what you see? Is the place on the right land, with its bridge, water, tents or graves? Press P on a bad spot to mark it in the save, then Tab for the next.
+- **A long game:** past day 100, is the map still tidy? Options > Debug tools > Roads, patrols and raiders has "Roads: count orphans".
+- **The places (new in 11.7):** Options > Debug tools > Places and people has "Tour: walk into the next place." It walks you into all 37 rebuilt areas in turn. Does your character stand on what you see? Is the place on the right land, with its bridge, water, tents or graves? Press P on a bad spot to mark it in the save, then Tab for the next.
 
 ## How to report a problem
 
@@ -71,7 +71,7 @@ You can also post in the mod's Workshop **Comments** or **Discussions**. Either 
 - **The in-game day** and your difficulty.
 - **Any red error text** (a screenshot helps).
 - For a **crash**: the file *rgl_log.txt* from your Warband folder, and whether you were in a battle, a town, a menu or on the map.
-- Options > Debug tools > **Diagnostics** shows the state of every system: paste it if you can.
+- Options > Debug tools > Pages, the log and diagnostics > **Diagnostics** shows the state of every system: paste it if you can.
 
 Reports of "it works fine" are useful too.
 

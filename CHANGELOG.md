@@ -33,14 +33,15 @@
 
 - **Your powers on one page (F10).** Battle cry, rally, surge, resupply, loose!, your own power and lock shields (boiling oil in a siege) can be given from the F10 page. Their letter keys (B, N, K, L, J, V, H, O) work as before.
 - **Signals (F11).** Release the reserve, re-form on me, fall back to the start line, end the battle plan, end every formation and tactic, and the pace of the plans.
+- **Shorter pages.** A lord's entries in his own town or castle (manage, the garrison, the court, officers, taxes and buildings) now stand on one page, "Your rule here", so the town menu fits the screen. The household page shows your officers and their wages; what each officer does is on a page of its own. Every such page has a way back to where you came from.
 - **The guide.** Notes > Game Concepts > "Reimagined: Battle orders and keys" explains how to give an order and lists every key.
 
 ### For testers
 
 - Formations, tactics and plans work in **field battles**, not in sieges; the powers work in both.
 - This is new: it has been checked by tools, but not yet proven in played battles. Please report what you see: men who stand idle in a formation while they are being hit, a group that does not do what its order says, a page that does not show (the orders still work, and the message log names each one).
-- **Six prepared test battles.** Options > Debug tools > Debug tools II > Battle and war > "Test battles for the battle orders." lends you the soldiers each test needs, puts an enemy beside you and starts the fight. The soldiers stay with you, so use a save you keep for testing. The [testing guide](TESTING.md) says what to look for.
-- **Debug tools in groups.** Debug tools II is now an index of seven groups. The tour of the places from 11.7 is under "Places and people".
+- **Six prepared test battles.** Options > Debug tools > Battle and war > "Test battles for the battle orders." lends you the soldiers each test needs, puts an enemy beside you and starts the fight. The soldiers stay with you, so use a save you keep for testing. The [testing guide](TESTING.md) says what to look for.
+- **Debug tools in groups.** Options > Debug tools is now one index of nine groups, each with its own page, instead of ten unsorted pages. The tour of the places from 11.7 is under "Places and people", Diagnostics and the full log under "Pages, the log and diagnostics".
 
 ## Version 11.7 - places rebuilt on real ground
 
