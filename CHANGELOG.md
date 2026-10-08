@@ -39,7 +39,8 @@
 
 - Formations, tactics and plans work in **field battles**, not in sieges; the powers work in both.
 - This is new: it has been checked by tools, but not yet proven in played battles. Please report what you see: men who stand idle in a formation while they are being hit, a group that does not do what its order says, a page that does not show (the orders still work, and the message log names each one).
-- The [testing guide](TESTING.md) has six short test battles.
+- **Six prepared test battles.** Options > Debug tools > Debug tools II > Battle and war > "Test battles for the battle orders." lends you the soldiers each test needs, puts an enemy beside you and starts the fight. The soldiers stay with you, so use a save you keep for testing. The [testing guide](TESTING.md) says what to look for.
+- **Debug tools in groups.** Debug tools II is now an index of seven groups. The tour of the places from 11.7 is under "Places and people".
 
 ## Version 11.7 - places rebuilt on real ground
 

@@ -27,16 +27,17 @@ Tick off what you try. Write down anything odd.
 
 ## New in version 11.8: battle orders
 
-How to use the order pages (F4 to F11) is in the [roadmap](ROADMAP.md), section 11. In short: choose who listens (1-9, or 0 for all), press the key of a page, then the key of the order. Field battles only, not sieges. Six short battles would tell me most:
+How to use the order pages (F4 to F11) is in the [roadmap](ROADMAP.md), section 11. In short: choose who listens (1-9, or 0 for all), press the key of a page, then the key of the order. Field battles only, not sieges.
 
-1. **A line.** A field battle with thirty men or more. Press F5, then F5 (line in ranks). Do your men form ranks facing the enemy? Give Hold somewhere else (F1, F1): does the line move there?
-2. **The shapes.** F5 then F6 (shield wall), F5 then F7 (wedge), F5 then F8 (square), F5 then F11 (no formation). Does each look like its name? Do men fight back when the enemy reaches them, or do they stand idle?
-3. **Archers.** Choose your archers, then F7 and F5 (volleys): do they loose together? F7 and F8 (skirmish): do they give ground when the enemy comes on?
-4. **Horse.** Choose your horse, then F8 and F6 (strike and re-form): do they charge, ride back and charge again? With horse archers, F8 and F8 (riding circle). F8 and F7 (feigned flight): does the enemy follow, and do your riders turn on him?
-5. **A plan.** F9, then the plan of your own troops' people. Read the messages for each stage. Does your army do what they say?
-6. **The captains.** Fight Khergits and Rhodoks. Then switch the captains' tactics off (F11, then F10) and fight them again. Do they behave differently?
+**Six prepared test battles.** Options > Debug tools > Debug tools II > Battle and war > "Test battles for the battle orders." Each lends you the soldiers it needs, puts an enemy beside you and starts the fight; a yellow line in the log says which keys to try. The soldiers stay with you, so use a test save.
 
-If a page does not show, the orders still work and the message log names each one; please tell me. Then save the game: the save keeps a record of the orders, so a save sent with your report shows what happened.
+1. **A line and the shapes.** F5 F5: do your men form ranks facing the enemy? F1 F1 elsewhere: does the line move there? F5 F6, F5 F7, F5 F8, F5 F11: does each shape look like its name? Do men fight back when reached, or stand idle?
+2. **Archers.** Press 2, then F7 F5 (volleys): do they loose together? F7 F8 (skirmish): do they give ground?
+3. **Horse.** Press 3, then F8 F6: do they charge, ride back and charge again? F8 F7 (feigned flight): does the enemy follow, and do your riders turn on him? F8 F8: the riding circle.
+4. **A plan.** F9, then F5 (Three Battles). Does the army do what each stage message says?
+5. **Captains.** A Khergit host, then a Rhodok host. Fight each, then switch the captains' tactics off (F11, F10) and fight it again. Do they behave differently?
+
+If a page does not show, the orders still work; please tell me. Then save the game: the save keeps a record of the orders, so a save sent with your report shows what happened.
 
 ## New in version 11: please look at these
 
@@ -57,8 +58,8 @@ Pick one of these and play it for a while:
 - **A great story:** ask around for the Emperor's Regalia (a scholar in Zendar), Blood and Ashes (your first week), or the Pale Fever (when the plague starts).
 - **Enlisting:** join a lord's army and wait for a battle. Does "Take your place in the line!" work?
 - **Your own settlement or kingdom:** if you get there, tell me what breaks.
-- **A long game:** past day 100, is the map still tidy? Options > Debug tools has "Roads: count orphans".
-- **The places (new in 11.7):** Options > Debug tools > Debug tools II has "Tour: walk into the next place." on one of its pages. It walks you into all 37 rebuilt areas in turn. Does your character stand on what you see? Is the place on the right land, with its bridge, water, tents or graves? Press P on a bad spot to mark it in the save, then Tab for the next.
+- **A long game:** past day 100, is the map still tidy? Options > Debug tools > Debug tools II > Roads, patrols and raiders has "Roads: count orphans".
+- **The places (new in 11.7):** Options > Debug tools > Debug tools II > Places and people has "Tour: walk into the next place." It walks you into all 37 rebuilt areas in turn. Does your character stand on what you see? Is the place on the right land, with its bridge, water, tents or graves? Press P on a bad spot to mark it in the save, then Tab for the next.
 
 ## How to report a problem
 
