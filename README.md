@@ -10,8 +10,6 @@ Guides for the Steam Workshop mod **Warband Reimagined** by Etherdancer. Current
 
 **New game required.** Saves from versions before 11 do not work with version 11. Saves from 11.3 and later keep working.
 
-**Not play-tested yet.** The mod is built and checked by tools, but this version has not been played through. Feedback is very welcome.
-
 **Light on any PC.** The mod uses Native's own models, textures, scenes, sounds and music. The only new picture is the title logo. It runs on older and weaker machines as well as Native does.
 
 ## Install

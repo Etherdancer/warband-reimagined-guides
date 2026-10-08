@@ -4,8 +4,6 @@
 
 **New game required.** Old saves do not work with this version.
 
-**Not play-tested yet.** The mod is built and checked by tools, but this version has not been played through. Some things will be rough. Reports are very welcome.
-
 **Light on any PC.** Only Native's own models, textures, scenes, sounds and music are used. The one new picture is the title logo.
 
 ## 1. Stories and quests

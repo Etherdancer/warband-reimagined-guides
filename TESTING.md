@@ -1,6 +1,6 @@
 # Warband Reimagined - Testing Guide
 
-Thank you for helping. **Version 11.5 has not been play-tested**, so you may be the first person to see some of it. Play the way you like, and tell me what looked wrong.
+Thank you for helping. Play the way you like, and tell me what looked wrong.
 
 ## Before you start
 

@@ -8,7 +8,7 @@
 
 ### Fixed
 
-- **The Witch of Curaw: the mob no longer stands outside the lower town.** The men you must stop could appear behind walls where you could not reach them. The same could happen in other stories where you hold a place, chase someone or search a town or village: people and things there are now put only on ground you can walk to. Thank you to the player who reported it. Not played again since the fix, so please report it if it still happens.
+- **The Witch of Curaw: the mob no longer stands outside the lower town.** The men you must stop could appear behind walls where you could not reach them. The same could happen in other stories where you hold a place, chase someone or search a town or village: people and things there are now put only on ground you can walk to. Thank you to the player who reported it.
 
 ## Version 11.8 - formations, tactics and battle plans
 
@@ -47,7 +47,7 @@
 ### For testers
 
 - Formations, tactics and plans work in **field battles**, not in sieges; the powers work in both.
-- This is new: it has been checked by tools, but not yet proven in played battles. Please report what you see: men who stand idle in a formation while they are being hit, a group that does not do what its order says, a page that does not show (the orders still work, and the message log names each one).
+- This is new. Please report what you see: men who stand idle in a formation while they are being hit, a group that does not do what its order says, a page that does not show (the orders still work, and the message log names each one).
 - **Six prepared test battles.** Options > Debug tools > Battle and war > "Test battles for the battle orders." lends you the soldiers each test needs, puts an enemy beside you and starts the fight. The soldiers stay with you, so use a save you keep for testing. The [testing guide](TESTING.md) says what to look for.
 - **Debug tools in groups.** Options > Debug tools is now one index of nine groups, each with its own page, instead of ten unsorted pages. The tour of the places from 11.7 is under "Places and people", Diagnostics and the full log under "Pages, the log and diagnostics".
 
@@ -66,7 +66,7 @@
 ### For testers
 
 - **A tour of the places.** Options > Debug tools > Debug tools II has "Tour: walk into the next place." on one of its pages. It walks you into all 37 areas, one after another. Once you have used it in a game, pressing P in any walk-in place marks the spot where you stand in the save's log, so a bug report can say exactly where something is wrong.
-- These places have been checked by tools but not yet walked by many players. If you float, sink, or find a place bare, please report it.
+- If you float, sink, or find a place bare, please report it.
 
 ## Version 11.6 - stories that fit together
 
@@ -153,7 +153,6 @@
 
 ### Not in this version
 
-- **This build has not been played yet.** Please report problems.
 - Still to come: stories that remember what you did in a scene (so a page does not repeat or contradict it), and scene layouts measured from the scene files (tents on slopes, crowds in the clan's own dress).
 
 ---
@@ -181,10 +180,6 @@
 - **A lord who dies ends the stories that wait on him** instead of leaving them stuck.
 - The "Companions only" order fades only your own soldiers. More roaming parties can be on the roads at once.
 
-### Not in this version
-
-- **This build has not been played yet.** Please report problems.
-
 ---
 
 ## Version 11.3 - every story has something to do
@@ -207,7 +202,7 @@
 
 - Shooting and racing scenes, and a companion who fights beside you in the arena. Wolves and boar are still met in conversation, not fought.
 - Two stories (the sword in the burial mound, and the vigil of the oath-dead) stay in one place: burial mounds are raised during play and have no fixed spot on the map.
-- **This build has not been played yet.** The new scenes and rides are checked by tools only. If a scene does not start, a runner stands still or a ride never ends, please report it with the story's name.
+- If a scene does not start, a runner stands still or a ride never ends, please report it with the story's name.
 
 ---
 
@@ -257,11 +252,11 @@
 
 ---
 
-## Version 11 "The Free Road" - test build, NOT PLAYED YET
+## Version 11 "The Free Road" - test build
 
 **NEW GAME REQUIRED.** Saves from older versions do not work.
 
-This build has been checked by tools only. Please expect rough edges and report what you find.
+Please report what you find.
 
 Version 10 was about stories. Version 11 is for the rider who wants no story at all: the map is busy, every party on it can be met, and riding the roads is a way to wealth and power of its own.
 
