@@ -19,11 +19,24 @@ Tick off what you try. Write down anything odd.
 4. **A story.** Talk to a tavern keeper or a villager and ask about work or news. Accept a story. Follow it for a few steps. Can you always find something to do next? Are greyed options explained?
 5. **Finish a story** (any ending). Did you get the reward it promised? Does it show in the Chronicle of Deeds among your stories?
 6. **The roads.** Ride for a few days. Ride up to a party you have not seen before (a convoy, knights, a patrol) and talk to it. Do the options make sense? Then open Reports > The roads. Does the list match what you see on the map?
-7. **A fight.** Play one battle (a bandit group is fine). Try the keys: B (battle cry), N (rally), H (shield wall). Does it work?
+7. **A fight.** Play one battle (a bandit group is fine). Press F4 (the order card), then F5 and F6 (shield wall): do your men form up? Try B (battle cry) and N (rally).
 8. **A lord.** Talk to a lord. Try "What do people say of me?" and "What do you think of your liege?".
 9. **A companion** (if you have one). Ask "How do you find the company, and me?".
 10. **Time.** Let the game run for two weeks of game days. Do any errors pop up? Does the game pause or stutter on the map?
 11. **Speed.** If your PC is old or slow, tell me how the game runs.
+
+## New in version 11.8: battle orders
+
+How to use the order pages (F4 to F11) is in the [roadmap](ROADMAP.md), section 11. In short: choose who listens (1-9, or 0 for all), press the key of a page, then the key of the order. Field battles only, not sieges. Six short battles would tell me most:
+
+1. **A line.** A field battle with thirty men or more. Press F5, then F5 (line in ranks). Do your men form ranks facing the enemy? Give Hold somewhere else (F1, F1): does the line move there?
+2. **The shapes.** F5 then F6 (shield wall), F5 then F7 (wedge), F5 then F8 (square), F5 then F11 (no formation). Does each look like its name? Do men fight back when the enemy reaches them, or do they stand idle?
+3. **Archers.** Choose your archers, then F7 and F5 (volleys): do they loose together? F7 and F8 (skirmish): do they give ground when the enemy comes on?
+4. **Horse.** Choose your horse, then F8 and F6 (strike and re-form): do they charge, ride back and charge again? With horse archers, F8 and F8 (riding circle). F8 and F7 (feigned flight): does the enemy follow, and do your riders turn on him?
+5. **A plan.** F9, then the plan of your own troops' people. Read the messages for each stage. Does your army do what they say?
+6. **The captains.** Fight Khergits and Rhodoks. Then switch the captains' tactics off (F11, then F10) and fight them again. Do they behave differently?
+
+If a page does not show, the orders still work and the message log names each one; please tell me. Then save the game: the save keeps a record of the orders, so a save sent with your report shows what happened.
 
 ## New in version 11: please look at these
 

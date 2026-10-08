@@ -173,7 +173,12 @@ Character creation runs in one flow: father, youth, adulthood, why you left, wha
 
 ## 12. Battles and war
 
-- **Orders in battle:** battle cry, rally, shield wall, archer volley, charge and resupply, plus a champion's fury and a last stand. Morale and routing: armies break when most of a side has fallen.
+- **Order pages on F4 to F11 (new in 11.8):** F1 to F3 stay the old orders. F4 shows the order card; F5 to F11 open a page over the battle, and a second key gives the order to the listening groups. How to use them, step by step: the [roadmap](ROADMAP.md), section 11.
+- **Formations your men keep:** line in ranks, shield wall, wedge, square, loose order and column. Every man has his place, shields in front. A shield wall halves the damage of arrows and bolts; loose order makes long shots miss; braced spears stop horses.
+- **Tactics:** for the foot, advance in order, brace spears, the boar's snout, hold the anvil, skirmish, throw then charge. For the shot, volleys, hold fire till close, the arrow storm, skirmish, a screen in front of the foot, pavises. For the horse, the lance wedge, strike and re-form, the feigned flight, the riding circle, sweeps round either flank, and a reserve.
+- **Battle plans:** one order takes the whole army through a battle in stages: Three Battles (Swadian), The Ambush Regiment (Vaegir), The Feigned Flight (Khergit), Shield Wall and Snout (Nord), Hedge and Bolt (Rhodok), Attack and Withdraw (Sarranid), and Hammer and Anvil. Troops fight best in their own people's way.
+- **Captains:** enemy and allied lords fight by the plan of their people when they have the troops. Can be switched off (F11, then F10).
+- **Your powers:** battle cry, rally, lock shields, loose!, surge and resupply, plus a champion's fury and a last stand. Morale and routing: armies break when most of a side has fallen.
 - **Before the fight:** order of battle, stances (entrench, ambush, sneak), a speech, omens, a champion's challenge, skirmishers or prayer. **After it:** prisoners, trophies, spoils, honouring veterans, wounds that need treating.
 - **A soldier's career:** enlist with a lord, rise through six ranks with duties, pay and kit; a sergeant may step forward from the ranks to serve you.
 - **Sieges:** blockades, agents, saboteurs, mines, rams, boiling oil, sallies, parley, poisoned wells, disguises at closed gates, and eighteen camp events.
@@ -215,5 +220,6 @@ Character creation runs in one flow: father, youth, adulthood, why you left, wha
 - **Camp > The Chronicle:** the hub for your house, company, court, careers and options.
 - **Reports** (map bar): character sheet, Chronicle of Deeds, statistics, the roads, realms, ledger, budget, troop trees.
 - **Notes:** the in-game Guide (Game Concepts), realm details (Factions), companions' and lords' notes (Troops), and your stories in progress (Quests).
+- **In a battle:** F4 shows the order card. To give an order, choose who listens (1-9, or 0 for all), press the key of a page (F5 formations, F6 foot, F7 shot, F8 horse, F9 battle plans), then the key of the order. The in-game Guide has it under "Reimagined: Battle orders and keys".
 - **Options:** switch off omens, raiders, assassins, the rival, crises, tips, hostile wanderers and walk-in places; change difficulty.
 - **First visits:** each system explains itself the first time you meet it.

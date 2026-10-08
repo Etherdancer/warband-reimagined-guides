@@ -2,6 +2,45 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.8 - formations, tactics and battle plans
+
+**No new game needed.** Saves from versions 11.6 and 11.7 keep working. If you come from 11.6, this update also brings the 37 rebuilt places of version 11.7.
+
+### New
+
+- **Order pages on F4 to F11.** F1, F2 and F3 stay the old orders. F4 opens the order card, which shows the pages and what each of your groups is doing. F5 to F11 each open a page, and on a page F5 to F11 give the order. The page lies over the battle, which does not stop. Orders go to the groups that are listening (keys 1-9 and 0), like the old ones.
+- **Formations your men keep (F5).** Line in ranks, shield wall, wedge, square, loose order and column. Every man has a place and goes back to it, with shields and the best men in front. The same formation again makes it one rank deeper. Hold moves the formation to the flag, Follow keeps it behind you, Charge lets the men go.
+- **Formations change the fight.** Men with a shield in a shield wall take half the damage from arrows and bolts and less from blows. Men in loose order are missed by a quarter of the shots from far off. A horse that rides into braced spears is badly hurt.
+- **Tactics for the foot (F6).** Advance in order, brace spears, the boar's snout, hold the anvil, skirmish, and throw then charge.
+- **Tactics for the shot (F7).** Volleys, hold fire till close, the arrow storm, skirmish, a screen in front of the foot that falls back behind it, and shooting from behind pavises.
+- **Tactics for the horse (F8).** The lance wedge, strike and re-form, the feigned flight that draws the enemy after it and turns on him, the riding circle of horse archers, a sweep round the left or right flank into his rear, and a reserve that waits out of the fight until you release it.
+- **Battle plans (F9).** One order that takes your whole army through a battle, stage by stage, and tells you each stage as it comes: Three Battles (Swadian), The Ambush Regiment (Vaegir), The Feigned Flight (Khergit), Shield Wall and Snout (Nord), Hedge and Bolt (Rhodok), Attack and Withdraw (Sarranid), and Hammer and Anvil.
+- **Each people's own way of war.** Any troops can be given any order, but they do a thing better when it is their own people's way: Nords in the wall and the snout, Rhodoks with braced spears and pavises, Swadian horse with the lance, Khergits in the circle and the flight, Sarranid horse striking and withdrawing, Vaegir archers in the storm.
+- **Captains who know them too.** Enemy lords and the lords at your side now fight by the plan of their people when they have the troops for it. Outlaws use the ways of the land they come from; small bands just fight. If you prefer the old battles, switch it off on the F11 page (F11, then F10); the game remembers it.
+
+### How to use it
+
+1. **Choose who listens:** 1-9 for one group (1 infantry, 2 archers, 3 cavalry), or 0 for everybody.
+2. **Open a page:** F5 formations, F6 foot, F7 shot, F8 horse, F9 battle plans. It shows at the top left; the battle goes on.
+3. **Press the key of the order** on that page. A message says what each group now does, or why it cannot.
+
+- **Try this first:** press 1, then F5 and F6: your infantry forms a shield wall. Press 2, then F7 and F5: your archers shoot in volleys. Or press F9 and the plan of your own troops' people, and watch the army work through it.
+- **The old orders still lead:** Hold (F1, F1) moves a formation to your flag, Follow (F1, F2) keeps it behind you, Charge (F1, F3) ends it and lets the men go. To end only a tactic, give a formation (F5).
+- **F4 shows the order card** at any time: every page, and what each of your groups is doing.
+- The full guide, with what every order does and when to use it, is in the [roadmap](ROADMAP.md), section 11.
+
+### Changed
+
+- **Your powers on one page (F10).** Battle cry, rally, surge, resupply, loose!, your own power and lock shields (boiling oil in a siege) can be given from the F10 page. Their letter keys (B, N, K, L, J, V, H, O) work as before.
+- **Signals (F11).** Release the reserve, re-form on me, fall back to the start line, end the battle plan, end every formation and tactic, and the pace of the plans.
+- **The guide.** Notes > Game Concepts > "Reimagined: Battle orders and keys" explains how to give an order and lists every key.
+
+### For testers
+
+- Formations, tactics and plans work in **field battles**, not in sieges; the powers work in both.
+- This is new: it has been checked by tools, but not yet proven in played battles. Please report what you see: men who stand idle in a formation while they are being hit, a group that does not do what its order says, a page that does not show (the orders still work, and the message log names each one).
+- The [testing guide](TESTING.md) has six short test battles.
+
 ## Version 11.7 - places rebuilt on real ground
 
 **No new game needed.** Saves from version 11.6 keep working.

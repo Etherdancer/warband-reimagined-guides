@@ -4,7 +4,7 @@
 
 **Nothing on this page is required.** The mod never forces a path: you can ride, trade, fight or rule as you please. Use this page when you want to know what is out there and in what order it opens up.
 
-**Written from the mod's rules.** The days, renown values and prices below are the ones the game uses in version 11.7. The mod has not been played through from start to finish yet, so if something differs in your game, please report it.
+**Written from the mod's rules.** The days, renown values and prices below are the ones the game uses in version 11.8. The mod has not been played through from start to finish yet, so if something differs in your game, please report it.
 
 ## The short version
 
@@ -277,16 +277,136 @@ In the game, Reports > Records of your chronicle > Chronicle of Deeds lists the 
 | I am injured | Injuries show on your character sheet. Have a physician, an abbot or a wise woman treat them within 60 days, or they set for good |
 | I do not want to walk around towns | Choose Speak with someone without walking about (quick), or turn walk-in places off in Options |
 
-## 11. Keys in battle
+## 11. Battle orders: how to use them
+
+*New in version 11.8. In the game the same is under Notes > Game Concepts > "Reimagined: Battle orders and keys".*
+
+### Giving an order in three steps
+
+1. **Choose who listens.** Press 1-9 for one group (1 infantry, 2 archers, 3 cavalry) or 0 for everybody, exactly as for the old orders.
+2. **Open a page.** F5 formations, F6 foot, F7 shot, F8 horse, F9 battle plans. The page shows at the top left of the screen. The battle does not stop.
+3. **Press the key of the order** on that page. The page closes, and a line in the message log says what each group now does, or why it cannot do it.
+
+Good to know:
+
+- **F4 is the order card.** It shows every page and what each of your groups is doing right now. Press F4 whenever you are lost.
+- A page closes with F4 or Escape, or by itself after fifteen seconds. To change to another page, close this one first.
+- F1, F2 and F3 are still the old orders. Right after you press one of them, the next F-key belongs to the old order menu.
+- Formations, tactics and plans are for **field battles**. In a siege only your powers (F10) work.
+
+### Formation and tactic
+
+- A **formation** is a shape your men keep. Every man has a place and goes back to it, with shields and the best men in front.
+- A **tactic** is what a group does. A tactic given to men without a formation takes the formation it needs.
+- **The old orders lead a formed group.** Hold (F1, F1) moves the formation to your flag; groups held at the same flag form up one behind the other. Follow (F1, F2) keeps it behind you. Charge (F1, F3) ends the formation and the tactic and lets the men go.
+- **To end only the tactic,** give a formation (F5). **To end everything** for the listening groups: F5, then F11. For the whole army: F11, then F9.
+- The same formation again makes a line, a shield wall or a loose order one rank deeper.
+
+### Three ways to begin
+
+- **Hold your ground.** Press 1, then F5 and F6: the infantry forms a shield wall. Press 2, then F7 and F5: the archers shoot in volleys. Press 0, then F1 and F1 where you want the fight: both form up at your flag.
+- **Break a line.** Press 3, then F8 and F9: the cavalry rides round the left flank into the enemy's rear and charges his back. As they strike, press 1, then F6 and F5: the infantry advances in order and goes in together.
+- **Let a plan lead.** Press F9, then the plan of your own troops' people. It takes the whole army, gives each group its part and tells you each stage as it comes. F11, then F8 ends the plan.
+
+### The keys
+
+| Page | Then F5 to F11 |
+|---|---|
+| **F4** Order card | Shows the pages and what each of your groups is doing. F4 again closes it |
+| **F5** Formations | F5 line in ranks, F6 shield wall, F7 wedge, F8 square, F9 loose order, F10 column, F11 no formation and no tactic |
+| **F6** Foot | F5 advance in order, F6 brace spears, F7 boar's snout, F8 hold the anvil, F9 skirmish, F10 throw, then charge |
+| **F7** Shot | F5 volleys, F6 hold fire till close, F7 arrow storm, F8 skirmish, F9 screen in front of the foot, F10 behind pavises |
+| **F8** Horse | F5 lance wedge, F6 strike and re-form, F7 feigned flight, F8 riding circle, F9 sweep to the left, F10 sweep to the right, F11 stand in reserve |
+| **F9** Battle plans | F5 Three Battles (Swadian), F6 The Ambush Regiment (Vaegir), F7 The Feigned Flight (Khergit), F8 Shield Wall and Snout (Nord), F9 Hedge and Bolt (Rhodok), F10 Attack and Withdraw (Sarranid), F11 Hammer and Anvil |
+| **F10** Your powers | F5 battle cry, F6 rally, F7 surge, F8 resupply, F9 loose!, F10 your own power, F11 lock shields (in a siege: boiling oil) |
+| **F11** Signals and rules | F5 release the reserve, F6 all: re-form on me, F7 all: fall back to the start line, F8 end the battle plan, F9 end every formation and tactic, F10 captains use tactics: on or off, F11 pace of the plans |
+
+### What each formation does
+
+| Formation | What the men do | Use it when |
+|---|---|---|
+| Line in ranks | Stand in ranks facing the enemy | You want order and a clear front |
+| Shield wall | Stand close, shields in front, and move at a walk. Men with a shield take half the damage from arrows and bolts and less from blows | Arrows are falling, or you must hold. At least a third of the group must carry shields |
+| Wedge | Form a point with the best man at the tip | You mean to break through a line |
+| Square | Face outward on all sides and move slowly | Horsemen are all around you |
+| Loose order | Stand far apart. A quarter of the shots from far off miss | You are being shot at from a distance and no charge is coming |
+| Column | March three abreast, a little faster | You need to move, not fight |
+
+### What each tactic does
+
+| Foot (F6) | What the men do | Needs |
+|---|---|---|
+| Advance in order | Walk at the enemy keeping their ranks, halt a short way off, then go in together | |
+| Brace spears | Stand still with spears set. A horse that rides into them is badly hurt | Long spears for at least a quarter of the group |
+| Boar's snout | Run in as a wedge and strike hard for a short time. If they do not break through, they tire | |
+| Hold the anvil | Stand and hold: they do not chase, and a feigned flight does not draw them out | |
+| Skirmish | Keep their distance: give ground when the enemy comes on, come back when he goes | |
+| Throw, then charge | Wait until the enemy is near, throw everything, then charge | Throwing weapons, or it is only a late charge |
+
+| Shot (F7) | What the men do | Needs |
+|---|---|---|
+| Volleys | Hold their fire and loose together | Bows, crossbows or throwing weapons for at least half the group |
+| Hold fire till close | Do not shoot until the enemy is near, then hit harder for a while | The same |
+| Arrow storm | Shoot as fast as they can, less truly, for a time; then their arms are tired | The same |
+| Skirmish | Stay out of reach, shooting, and never let themselves be caught | |
+| Screen in front of the foot | Stand ahead of your foot, then fall back behind the line when the enemy closes | |
+| Behind pavises | Shoot from cover: men with a shield load faster and take half the damage from arrows and bolts | The same, and shields for at least a third |
+
+| Horse (F8) | What the men do | Needs |
+|---|---|---|
+| Lance wedge | Trot in a wedge, gallop the last stretch and strike very hard on impact | Horses |
+| Strike and re-form | Charge, fight for a moment, ride back, form up and charge again | Horses |
+| Feigned flight | Ride at the enemy, turn and run. Enemy groups may chase; your riders then turn on men strung out behind them | |
+| Riding circle | Horse archers ride a ring in front of the enemy, shooting, and keep their distance | Horses, and bows for at least half the group |
+| Sweep to the left or right | Ride a wide arc round the flank into the enemy's rear, then charge his back | |
+| Stand in reserve | Wait behind your line and take no orders until you release them (F11, then F5). Fresh men then hit harder for a short time | |
+
+### The battle plans (F9)
+
+| Plan | What your army does |
+|---|---|
+| Three Battles (Swadian) | The shot goes forward to open the fight while the horse waits behind. The horse then goes in as a lance wedge, striking and re-forming. Then the foot advances in order, and at the end every man goes forward |
+| The Ambush Regiment (Vaegir) | The foot holds as the anvil with the shot behind it and the horse waits in reserve; when the enemy is fighting the centre, the reserve sweeps into his rear |
+| The Feigned Flight (Khergit) | Horse archers ride the circle, then feign flight; when they turn, everybody charges |
+| Shield Wall and Snout (Nord) | The shield wall advances with the shot behind it, throws at close range, then forms the boar's snout and goes in |
+| Hedge and Bolt (Rhodok) | Spears braced in front, the shot behind pavises, the horse in reserve. When the enemy is spent, the hedge rises and pushes |
+| Attack and Withdraw (Sarranid) | The horse strikes and re-forms while the archers screen; after several strikes everybody charges |
+| Hammer and Anvil | The foot holds, the horse sweeps into the rear |
+
+Any commander can give any plan. A plan needs the right troops: without horse there is no hammer.
+
+### Their own way of war
+
+Troops do a thing better when it is their own people's way: Nord foot in the shield wall and the boar's snout; Rhodok foot with braced spears, in the square and behind pavises; Swadian horse in the lance wedge; Khergit horse in the riding circle, the feigned flight and the sweeps; Sarranid horse striking and re-forming; Vaegir archers in volleys and the arrow storm. When a group takes an order that is its own, the message says "(Their own way of war.)".
+
+### When an order does not work
+
+| What you see | Why, and what to do |
+|---|---|
+| "No group is listening." | Choose a group first: 1-9, or 0 for everybody |
+| "They have no horses for that." | The lance wedge, strike and re-form and the riding circle are for mounted men. Choose your cavalry |
+| "Too few of them carry a shield / a long spear / a bow..." | The group lacks the arms for that order. Choose another group or another order |
+| "Formations and tactics are for the open field." | You are in a siege or another fight where only the powers work |
+| The old order menu opened instead | You pressed F1, F2 or F3 first. Press Escape and start again |
+| A group ignores you | It stands in reserve: release it with F11, then F5 |
+| The page does not show | The orders still work; the message log names every key of the page |
+
+### The captains
+
+Enemy lords and the lords at your side use the plans of their people when they have the troops for them. Outlaws fight in the way of the land they come from; a band of fewer than twelve just fights, and so does a host with too few of the right troops. F11, then F10 switches this off or on, and the game remembers it. F11, then F11 slows the plans down if they move too fast for you.
+
+### The powers and their own keys
+
+The powers are on the F10 page, and each also has its own key:
 
 | Key | What it does |
 |---|---|
-| K | Charge: your men surge forward faster for a short time (once per battle) |
-| L | Resupply: the baggage boys refill ammunition near you (once per battle) |
-| N | Rally: steadies wavering men and heals your companions a little |
 | B | Battle cry: your men strike harder and some of the enemy may break (once per battle) |
-| H | Shield wall: men near you lock shields, slower but much harder to break (half a minute) |
-| J | Archer volley: your archers shoot faster and truer for 20 seconds (once per battle) |
+| N | Rally: steadies wavering men and heals your companions a little |
+| K | Surge: your men press forward faster for a short time (once per battle) |
+| L | Resupply: the baggage boys refill ammunition near you (once per battle) |
+| J | Loose!: your archers shoot faster and truer for 20 seconds (once per battle) |
+| H | Lock shields: men near you lock shields, slower but much harder to break (half a minute) |
 | V | Your level-13 power, if you have chosen one (ready again after 90 seconds) |
 | O | Boiling oil: in a siege, scald the attackers below your wall (once per siege) |
 | U | Pick a pocket while walking the streets (Grey Road members and the notorious) |
