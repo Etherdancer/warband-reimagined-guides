@@ -173,7 +173,7 @@ Character creation runs in one flow: father, youth, adulthood, why you left, wha
 
 ## 12. Battles and war
 
-- **Order pages on F4 to F11 (new in 11.8):** F1 to F3 stay the old orders. F4 shows the order card; F5 to F11 open a page over the battle, and a second key gives the order to the listening groups. How to use them, step by step: the [roadmap](ROADMAP.md), section 11.
+- **Order pages on F4 to F11 (new in 11.8):** F1 to F3 stay the old orders. F4 shows the order card; F5 to F11 open a page over the battle, and a second key gives the order to the listening groups. How to use them, step by step: the [player guide](PLAYER_GUIDE.md), section 11.
 - **Formations your men keep:** line in ranks, shield wall, wedge, square, loose order and column. Every man has his place, shields in front. A shield wall halves the damage of arrows and bolts; loose order makes long shots miss; braced spears stop horses.
 - **Tactics:** for the foot, advance in order, brace spears, the boar's snout, hold the anvil, skirmish, throw then charge. For the shot, volleys, hold fire till close, the arrow storm, skirmish, a screen in front of the foot, pavises. For the horse, the lance wedge, strike and re-form, the feigned flight, the riding circle, sweeps round either flank, and a reserve.
 - **Battle plans:** one order takes the whole army through a battle in stages: Three Battles (Swadian), The Ambush Regiment (Vaegir), The Feigned Flight (Khergit), Shield Wall and Snout (Nord), Hedge and Bolt (Rhodok), Attack and Withdraw (Sarranid), and Hammer and Anvil. Troops fight best in their own people's way.

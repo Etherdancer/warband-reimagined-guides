@@ -27,7 +27,7 @@
 - **Try this first:** press 1, then F5 and F6: your infantry forms a shield wall. Press 2, then F7 and F5: your archers shoot in volleys. Or press F9 and the plan of your own troops' people, and watch the army work through it.
 - **The old orders still lead:** Hold (F1, F1) moves a formation to your flag, Follow (F1, F2) keeps it behind you, Charge (F1, F3) ends it and lets the men go. To end only a tactic, give a formation (F5).
 - **F4 shows the order card** at any time: every page, and what each of your groups is doing.
-- The full guide, with what every order does and when to use it, is in the [roadmap](ROADMAP.md), section 11.
+- The full guide, with what every order does and when to use it, is in the [player guide](PLAYER_GUIDE.md), section 11.
 
 ### Changed
 

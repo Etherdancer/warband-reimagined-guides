@@ -27,7 +27,7 @@ Tick off what you try. Write down anything odd.
 
 ## New in version 11.8: battle orders
 
-How to use the order pages (F4 to F11) is in the [roadmap](ROADMAP.md), section 11. In short: choose who listens (1-9, or 0 for all), press the key of a page, then the key of the order. Field battles only, not sieges.
+How to use the order pages (F4 to F11) is in the [player guide](PLAYER_GUIDE.md), section 11. In short: choose who listens (1-9, or 0 for all), press the key of a page, then the key of the order. Field battles only, not sieges.
 
 **Six prepared test battles.** Options > Debug tools > Battle and war > "Test battles for the battle orders." Each lends you the soldiers it needs, puts an enemy beside you and starts the fight; a yellow line in the log says which keys to try. The soldiers stay with you, so use a test save.
 
