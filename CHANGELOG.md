@@ -2,6 +2,14 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.8.1 - a fix for stories you walk into
+
+**No new game needed.** Saves from version 11.6 and later keep working.
+
+### Fixed
+
+- **The Witch of Curaw: the mob no longer stands outside the lower town.** The men you must stop could appear behind walls where you could not reach them. The same could happen in other stories where you hold a place, chase someone or search a town or village: people and things there are now put only on ground you can walk to. Thank you to the player who reported it. Not played again since the fix, so please report it if it still happens.
+
 ## Version 11.8 - formations, tactics and battle plans
 
 **No new game needed.** Saves from versions 11.6 and 11.7 keep working. If you come from 11.6, this update also brings the 37 rebuilt places of version 11.7.
