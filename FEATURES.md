@@ -157,7 +157,7 @@ Character creation runs in one flow: father, youth, adulthood, why you left, wha
 ## 10. People and places
 
 - **45 kinds of people** (smiths, horse dealers, moneylenders, notaries, millers, reeves, sheriffs, heralds, abbots, almoners, harbourmasters and more): each has a name, a face and clothes that fit the culture of their town, and remembers whether you have met.
-- **Walk into places:** markets, Low Town lanes, guild halls, churches, drill yards, castle halls, village greens, taverns and the mod's map sites; each person stands at the post of their trade. Harbour towns have a waterfront with a pier and a moored ship.
+- **Walk into places:** markets, Low Town lanes, guild halls, churches, drill yards, castle halls, village greens, taverns and the mod's map sites; each person stands at the post of their trade. The map sites and the stories' open ground are 37 areas in real locations, each on the land of the map around it (grass, steppe, snow or desert). Harbour towns have a waterfront with a pier and a moored ship.
 - **Work and favours:** 32 kinds of people offer work in their trade; do their jobs three times and they offer a lasting favour.
 - **Voices:** people answer in the voice of their culture. A person who gave you a story greets you differently once it ended well or badly. Lords tell you what people say of you and what they think of their king. Companions tell you how the company strikes them.
 - **Town life:** lessons, drill, feasts, songs, a cellar ring, jousts, dice, and real arena fights; quarters of each town to walk; "ask around" for who is in town.

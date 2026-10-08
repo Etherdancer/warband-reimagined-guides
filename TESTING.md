@@ -45,6 +45,7 @@ Pick one of these and play it for a while:
 - **Enlisting:** join a lord's army and wait for a battle. Does "Take your place in the line!" work?
 - **Your own settlement or kingdom:** if you get there, tell me what breaks.
 - **A long game:** past day 100, is the map still tidy? Options > Debug tools has "Roads: count orphans".
+- **The places (new in 11.7):** Options > Debug tools > Debug tools II has "Tour: walk into the next place." on one of its pages. It walks you into all 37 rebuilt areas in turn. Does your character stand on what you see? Is the place on the right land, with its bridge, water, tents or graves? Press P on a bad spot to mark it in the save, then Tab for the next.
 
 ## How to report a problem
 

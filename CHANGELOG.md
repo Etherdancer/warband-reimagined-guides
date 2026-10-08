@@ -2,6 +2,23 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.7 - places rebuilt on real ground
+
+**No new game needed.** Saves from version 11.6 keep working.
+
+### Fixed
+
+- **37 walk-in areas rebuilt.** The 29 map sites you walk into on open ground (6 river crossings, 4 clan camps, 8 burial mounds, 8 hunting grounds, the quarry, the logging camp and Ravenhold) and the open ground of 53 story scenes all shared one bare meadow, where you floated above the ground or sank into it. Each now stands in a real location with solid ground: what you see is what you stand on.
+- **The right land.** Every place matches the map around it: 14 areas on grass and in woods, 9 on the steppe, 9 in the snow and 5 in the desert. No more grass in the desert. A burial mound takes the land it was raised on, and a story's ground takes the land where the story is told.
+- **Water where it belongs.** The Jelkala Bridge has its river and a wooden bridge. The Praven and Reyvadin fords have shallow water to wade through. The Curaw Ferry stands on the shore of a frozen lake, the Oasis of the Sand Tribes has its pond, and shore stories are told on a beach.
+- **Places you can recognise.** The Hall of the Hill Clans is an earth-walled hillfort, the quarry a mine mouth in a rock canyon, the logging camp stands among snowy pines, and Ravenhold is the yard of a whole castle. Elsewhere the place is built from what belongs there: toll bars, tents, nets, graves, ruined walls, a well.
+- **People and things on the ground.** Keepers, crowds, props and the spots where a story's fight, chase or search happens are placed on level ground you can walk to, away from cliffs, piers and walls.
+
+### For testers
+
+- **A tour of the places.** Options > Debug tools > Debug tools II has "Tour: walk into the next place." on one of its pages. It walks you into all 37 areas, one after another. Once you have used it in a game, pressing P in any walk-in place marks the spot where you stand in the save's log, so a bug report can say exactly where something is wrong.
+- These places have been checked by tools but not yet walked by many players. If you float, sink, or find a place bare, please report it.
+
 ## Version 11.6 - stories that fit together
 
 **No new game needed.** Saves from version 11.5.3 keep working. A story you are halfway through may restart its current step.
@@ -29,10 +46,6 @@
 - **Stories that could stall.** Clocks on five talks, trial evidence on the lords' road, a fight in the Iron Tide and the Horde's field now always lead somewhere.
 - **Battle keys.** The guide's page on keys in battle lists every key the battle uses.
 - **Camps.** Clan camps are filled with that clan's own people.
-
-### Known problem
-
-- **Open-ground places are not right yet.** At the river crossings, the clan camps, the burial mounds, the hunting grounds, the quarry and the logging camp, and in story scenes that take place on open ground, you may float above the ground or sink into it, and the place looks bare (the Jelkala Bridge has no bridge and no river). Their menus work as before. These places are being rebuilt for the next version: each moves to a real location with its own river, bridge, camp or ruin, on the right kind of land.
 
 ## Version 11.5.3 - companions' gear screen fixed
 

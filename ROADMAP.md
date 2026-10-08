@@ -4,7 +4,7 @@
 
 **Nothing on this page is required.** The mod never forces a path: you can ride, trade, fight or rule as you please. Use this page when you want to know what is out there and in what order it opens up.
 
-**Written from the mod's rules.** The days, renown values and prices below are the ones the game uses in version 11.6. The mod has not been played through from start to finish yet, so if something differs in your game, please report it.
+**Written from the mod's rules.** The days, renown values and prices below are the ones the game uses in version 11.7. The mod has not been played through from start to finish yet, so if something differs in your game, please report it.
 
 ## The short version
 
