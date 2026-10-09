@@ -2,6 +2,14 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.8.2 - the suspected cause of a bug removed
+
+**No new game needed.** Saves from version 11.6 and later keep working.
+
+### Fixed
+
+- **The suspected cause of a bug was removed.**
+
 ## Version 11.8.1 - a fix for stories you walk into
 
 **No new game needed.** Saves from version 11.6 and later keep working.
