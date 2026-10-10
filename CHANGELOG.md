@@ -2,6 +2,24 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.9.2 - the march runs by itself, and a soldier fights at the walls
+
+**No new game needed.** Saves from version 11.6 and later keep working.
+
+### Fixed
+
+- **A soldier no longer has to hold Space.** In version 11.9.1 time stood still for a soldier in a lord's host unless Space was held. The notes of 11.9.1 said that a click on the map would do; that was wrong. Time now runs by itself at the pace of the march. **Space halts the march for you and starts it again, and Ctrl+Space hurries.** A click, a screen's key or the mouse on the buttons at the bottom makes the march wait a moment, so every screen opens as always.
+- **Pay day, duties and the call to battle come while the march runs.**
+- **One battle is one battle.** After a won field battle the game often sent you in a second time, against a handful of men who had already run from the field. Men who ran because their side broke, because of a battle cry or because their commander fell were not counted as fled. Now who gets away gets away: a battle is fought again only when a side still has men who never came onto the field. This holds for your own battles and for a soldier's.
+- **Nobody routs in a siege.** At the walls, in the streets, in the keep and in a sally no man runs any more, on either side: a battle cry or a fallen commander no longer sends men fleeing there. Routs belong to the open field.
+
+### New: a soldier fights at the walls
+
+- **The assault.** When your lord's host storms a town or castle, the horns call you to the ladders with your company, and on into the streets and the keep.
+- **The defence.** When the host is stormed inside a town or castle, you stand on the wall.
+- As in the field, the battle is the lord's: his captains give the orders, and the place, the prisoners and the plunder are his. Your report, merit and battle money come after the fight.
+- **Desert in the middle of a battle:** the line and the walls both offer it.
+
 ## Version 11.9.1 - a soldier keeps the map
 
 **No new game needed.** Saves from version 11.6 and later keep working. A save made in a lord's service in version 11.9 is put right when you load it.
