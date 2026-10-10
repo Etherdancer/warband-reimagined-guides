@@ -4,7 +4,7 @@
 
 > **Looking for the route through the game or the battle orders?** That page is now the [Player guide](PLAYER_GUIDE.md). The battle orders are in its section 11.
 
-**Last updated:** 8 October 2026, for version 11.8.
+**Last updated:** 10 October 2026, for version 11.9.2.
 
 ## At a glance
 
@@ -13,7 +13,7 @@
 | **Main focus now** | Fixing bugs, if any exist |
 | **Open to** | Suggestions from players |
 | **Looking for** | Sources of inspiration |
-| **Current version** | 11.8 (see the [changelog](CHANGELOG.md)) |
+| **Current version** | 11.9.2 (see the [changelog](CHANGELOG.md)) |
 
 ## Main focus: fixing bugs
 

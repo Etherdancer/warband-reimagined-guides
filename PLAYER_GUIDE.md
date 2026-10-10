@@ -4,7 +4,7 @@
 
 **Nothing on this page is required.** The mod never forces a path: you can ride, trade, fight or rule as you please. Use this page when you want to know what is out there and in what order it opens up.
 
-**Written from the mod's rules.** The days, renown values and prices below are the ones the game uses in version 11.8. If something differs in your game, please report it.
+**Written from the mod's rules.** The days, renown values and prices below are the ones the game uses. If something differs in your game, please report it.
 
 ## The short version
 
@@ -221,7 +221,7 @@ Kings also ask you to break a named host on the roads once your renown reaches 3
 
 ### Other roads
 
-- **Soldier.** Talk to a lord and ask to join his army as a soldier. You rise through six ranks by fighting and by doing duties every few days (watch, forage, scout, baggage). You may take leave, but if you overstay you are a deserter. Your own men wait for you while you serve.
+- **Soldier.** Talk to a lord and ask to join his host as a common soldier. You march with the host: it stays in sight and time runs by itself (Space halts the march and starts it again, Ctrl+Space hurries). The H key opens your place in the ranks, where you can go to your lord, ask for leave or desert. The horns call you into the line when the host fights and to the walls in a siege; the battle is the lord's, and his captains give the orders. Six ranks, from Recruit to Captain of the Host, come from battles stood in the line and from merit (victories, foes struck down, duties done well). Pay runs from 70 to 550 denars a week, with battle money after every won fight. A week's leave after fourteen days (overstay it and you are a deserter), discharge with honour after thirty. Your own men wait for you while you serve.
 - **Merchant.** Workshops, caravans, the bank, rooms, shops and warehouses, with a weekly budget in Reports. The Merchants' Guild is the natural home.
 - **Lord of your own land.** Claim empty land for a settlement at renown 100 for 2000 denars, and grow it from a camp to an outpost and a stone fort. Four ruins can be restored with three loads of tools and 1500 denars. You can also rebuild the ruined keep of Ravenhold.
 - **Fief holder.** Set tax rates, raise buildings, appoint household officers, and raise a patrol from the garrison to keep raiders off your land.
@@ -411,7 +411,7 @@ The powers are on the F10 page, and each also has its own key:
 | O | Boiling oil: in a siege, scald the attackers below your wall (once per siege) |
 | U | Pick a pocket while walking the streets (Grey Road members and the notorious) |
 
-Troops of level 25 and above never rout. Rain, snow and fog make archery less accurate.
+Troops of level 25 and above never rout, and in a siege nobody does. A battle is fought once: you are sent in again only when a side still has men who never came onto the field. Rain, snow and fog make archery less accurate.
 
 ## Feedback
 

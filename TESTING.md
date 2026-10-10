@@ -4,7 +4,7 @@ Thank you for helping. Play the way you like, and tell me what looked wrong.
 
 ## Before you start
 
-- Start a **NEW game**. Old saves do not work.
+- Use your own save (from version 11.6 or later) or start a new game. Both are worth testing.
 - Pick any difficulty. Story is fine for testing.
 - You do not have to do everything. A short session and a short report already help.
 - Save before you try something, so you can go back.
@@ -24,6 +24,13 @@ Tick off what you try. Write down anything odd.
 9. **A companion** (if you have one). Ask "How do you find the company, and me?".
 10. **Time.** Let the game run for two weeks of game days. Do any errors pop up? Does the game pause or stutter on the map?
 11. **Speed.** If your PC is old or slow, tell me how the game runs.
+
+## New in version 11.9.2: please look at these
+
+- **One battle is one battle.** Win a field battle in which some of the enemy ran. Is it over? You should be sent in again only when a side still has men who never came onto the field.
+- **Nobody routs in a siege.** Attack or defend walls, fight in the streets or the keep, or sally out. Does any man turn and run, on either side? None should, also after a battle cry or when a commander falls.
+- **A soldier's march.** In a lord's host, does time run by itself? Does Space halt the march and start it again, and Ctrl+Space hurry it? Do pay day, duties and the call to battle come while the march runs?
+- **A soldier at the walls.** When the host storms a place or is stormed in one, do the horns call you to the ladders or onto the wall, and does your report come after the fight?
 
 ## New in version 11.8: battle orders
 
@@ -56,7 +63,7 @@ Pick one of these and play it for a while:
 - **Origins:** start a new game with a different origin. Does the opening make sense?
 - **Tournament:** go to a town with a tournament and join the festival. Enter each event once. Does every fighter have the right arms (a lance and horse in the joust, a bow in archery, bare hands only in the fist fight)? Do the joust and the fist fight count points and end at three?
 - **A great story:** ask around for the Emperor's Regalia (a scholar in Zendar), Blood and Ashes (your first week), or the Pale Fever (when the plague starts).
-- **The soldier's life (rebuilt in 11.9):** ask a lord to take you into his host. Does the host stay in sight as it marches? Does time run by itself, and does Space halt and start it? Does the H key open your place? Do the horns call you into the line, and does the report after the fight show merit and battle money?
+- **The soldier's life (rebuilt in 11.9):** ask a lord to take you into his host. Does the host stay in sight as it marches? Does the H key open your place in the ranks? Do the horns call you into the line, and does the report after the fight show merit and battle money?
 - **Your own settlement or kingdom:** if you get there, tell me what breaks.
 - **A long game:** past day 100, is the map still tidy? Options > Debug tools > Roads, patrols and raiders has "Roads: count orphans".
 - **The places:** Options > Debug tools > Places and people has "Tour: walk into the next place." It walks you into all 37 rebuilt areas in turn. Does your character stand on what you see, on the right land? Press P on a bad spot to mark it in the save, then Tab for the next.
@@ -76,11 +83,3 @@ The Workshop **Comments** and **Discussions** work too. It helps to include:
 - Options > Debug tools > Pages, the log and diagnostics > **Diagnostics** shows the state of every system: paste it if you can.
 
 Reports of "it works fine" are useful too.
-
-## New in version 11.5: please look at these
-
-- A story fight against a band: you can always "Charge", even when you are notorious or your road record is clean.
-- A story that names a person at a town (a reeve, a miller, an abbot): look for the "Look for the ..." line in that town's quarters menu.
-- A lesson, a drill, a landmark gift, a plunder: after taking it, the option should say when it will be there again.
-- Sally out of a besieged fortress: the lent soldiers go back an hour after the battle.
-- A coronation: pick a way to be crowned once; the page should close.

@@ -2,7 +2,7 @@
 
 *Everything in version 11, grouped by theme. Back to the [README](README.md), the [changelog](CHANGELOG.md) or the [testing guide](TESTING.md).*
 
-**New game required.** Old saves do not work with this version.
+**Your save.** Saves from version 11.6 and later keep working. A save from an older version needs a new game.
 
 **Light on any PC.** Only Native's own models, textures, scenes, sounds and music are used. The one new picture is the title logo.
 
@@ -163,7 +163,7 @@ Character creation runs in one flow: father, youth, adulthood, why you left, wha
 ## 11. A living world
 
 - **Seasons:** spring sowing, summer campaigns, autumn harvest, winter cold. Each season has a great event in a fixed host city: the Great Tournament (Praven), the Great Fair (Shariz), the Harvest Festival (Jelkala) and the Midwinter Feast (Reyvadin).
-- **World crises**, one at a time: the Long Winter, the Succession War, the Comet Year, the Iron Tide, the Black Khergit Horde. Foretold ten days ahead; each switchable off.
+- **Four world crises**, one at a time: the Long Winter, the Succession War, the Comet Year and the Iron Tide, each foretold ten days ahead. The Black Khergit Horde is a threat of the same size with a day of its own. The crises and the Horde can each be switched off.
 - **Plague, famine, omens, weather** in battles, storms at sea.
 - **Lords are mortal;** heirs inherit. Fallen kingdoms can rise again.
 - The rival who hunts you, bounty hunters if you are notorious, and moving fugitives who hunt you back if they escape.
