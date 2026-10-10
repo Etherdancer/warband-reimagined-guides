@@ -2,6 +2,22 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.9.1 - a soldier keeps the map
+
+**No new game needed.** Saves from version 11.6 and later keep working. A save made in a lord's service in version 11.9 is put right when you load it.
+
+### Fixed
+
+- **Serving in a lord's host no longer locks the map.** In version 11.9 a soldier could open nothing but Reports and could only wait: his own page never opened, no battle called him, and he could not leave the host. The march is an ordinary journey now: click on the map and time runs while the host marches, Space halts, Ctrl+Space hurries, and every screen opens as always.
+- **A soldier is released when his lord's host is gone,** also when the game has meanwhile given that host's place to another party.
+
+### Changed: serving in a lord's host as a common soldier
+
+- **Your place in the ranks opens with the H key,** from the first line of the Camp menu, from Reports, or with a right click on the host.
+- **Go to your lord at any time** from that page.
+- **Desert at any time:** from that page, or by telling your lord to his face.
+- **Castles too:** walk into a castle the host rests in, as into a town.
+
 ## Version 11.9 - the soldier's life, and the Quests crash fixed
 
 **No new game needed.** Saves from version 11.6 and later keep working. A save in which Quests or Notes closed the game is put right when you load it.

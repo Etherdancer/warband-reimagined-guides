@@ -56,7 +56,7 @@ Pick one of these and play it for a while:
 - **Origins:** start a new game with a different origin. Does the opening make sense?
 - **Tournament:** go to a town with a tournament and join the festival. Enter each event once. Does every fighter have the right arms (a lance and horse in the joust, a bow in archery, bare hands only in the fist fight)? Do the joust and the fist fight count points and end at three?
 - **A great story:** ask around for the Emperor's Regalia (a scholar in Zendar), Blood and Ashes (your first week), or the Pale Fever (when the plague starts).
-- **The soldier's life (rebuilt in 11.9):** ask a lord to take you into his host. Does the host stay in sight as it marches? Does a click on the map open your place in the ranks? Do the horns call you into the line, and does the report after the fight show merit and battle money?
+- **The soldier's life (rebuilt in 11.9):** ask a lord to take you into his host. Does the host stay in sight as it marches? Does time run after a click on the map? Does the H key open your place in the ranks? Do the horns call you into the line, and does the report after the fight show merit and battle money?
 - **Your own settlement or kingdom:** if you get there, tell me what breaks.
 - **A long game:** past day 100, is the map still tidy? Options > Debug tools > Roads, patrols and raiders has "Roads: count orphans".
 - **The places:** Options > Debug tools > Places and people has "Tour: walk into the next place." It walks you into all 37 rebuilt areas in turn. Does your character stand on what you see, on the right land? Press P on a bad spot to mark it in the save, then Tab for the next.
