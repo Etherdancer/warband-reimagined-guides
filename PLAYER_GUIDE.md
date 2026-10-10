@@ -415,4 +415,4 @@ Troops of level 25 and above never rout. Rain, snow and fog make archery less ac
 
 ## Feedback
 
-If a day, a place or a number on this page does not match your game, please say so in the Comments or Discussions of the mod's Steam Workshop page. Every report helps.
+If a day, a place or a number on this page does not match your game, please say so on the mod's [Discord server](https://discord.gg/qqpPMAX46R), or in the Comments or Discussions of the mod's Steam Workshop page. Every report helps.

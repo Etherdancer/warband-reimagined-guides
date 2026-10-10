@@ -54,18 +54,20 @@ If a page does not show, the orders still work; please tell me. Then save the ga
 Pick one of these and play it for a while:
 
 - **Origins:** start a new game with a different origin. Does the opening make sense?
-- **Tournament:** go to a town with a tournament and join the festival. Enter each event once. Does every fighter have the right arms (a lance and horse in the joust, a bow in archery, bare hands only in wrestling)? Do the joust and wrestling count points and end at three?
+- **Tournament:** go to a town with a tournament and join the festival. Enter each event once. Does every fighter have the right arms (a lance and horse in the joust, a bow in archery, bare hands only in the fist fight)? Do the joust and the fist fight count points and end at three?
 - **A great story:** ask around for the Emperor's Regalia (a scholar in Zendar), Blood and Ashes (your first week), or the Pale Fever (when the plague starts).
-- **Enlisting:** join a lord's army and wait for a battle. Does "Take your place in the line!" work?
+- **The soldier's life (rebuilt in 11.9):** ask a lord to take you into his host. Does the host stay in sight as it marches? Does a click on the map open your place in the ranks? Do the horns call you into the line, and does the report after the fight show merit and battle money?
 - **Your own settlement or kingdom:** if you get there, tell me what breaks.
 - **A long game:** past day 100, is the map still tidy? Options > Debug tools > Roads, patrols and raiders has "Roads: count orphans".
-- **The places (new in 11.7):** Options > Debug tools > Places and people has "Tour: walk into the next place." It walks you into all 37 rebuilt areas in turn. Does your character stand on what you see? Is the place on the right land, with its bridge, water, tents or graves? Press P on a bad spot to mark it in the save, then Tab for the next.
+- **The places:** Options > Debug tools > Places and people has "Tour: walk into the next place." It walks you into all 37 rebuilt areas in turn. Does your character stand on what you see, on the right land? Press P on a bad spot to mark it in the save, then Tab for the next.
 
 ## How to report a problem
 
-The easiest way is the **bug report page: [warband-reimagined-bugs.pages.dev](https://warband-reimagined-bugs.pages.dev/)**. Say in a sentence what went wrong; a screenshot, your save file and your log are optional, and the page shows the folder your saves are in. Nothing is ever sent by the game or the mod: only what you choose to send yourself.
+The easiest way is the **[Discord server](https://discord.gg/qqpPMAX46R)**: open a report in **bug-reports** (private: only you and I see it). Say in a sentence what went wrong; a screenshot, your zipped save and your log are optional.
 
-You can also post in the mod's Workshop **Comments** or **Discussions**. Either way, it helps to include:
+Not on Discord? Use the **[bug report page](https://warband-reimagined-bugs.pages.dev/)**. Nothing is ever sent by the game or the mod: only what you choose to send yourself.
+
+The Workshop **Comments** and **Discussions** work too. It helps to include:
 
 - **What you did** (menu names, who you talked to, the town).
 - **The in-game day** and your difficulty.
@@ -79,7 +81,6 @@ Reports of "it works fine" are useful too.
 
 - A story fight against a band: you can always "Charge", even when you are notorious or your road record is clean.
 - A story that names a person at a town (a reeve, a miller, an abbot): look for the "Look for the ..." line in that town's quarters menu.
-- Enlist in a lord's host, then take a war story: its discharge ending should end your service.
 - A lesson, a drill, a landmark gift, a plunder: after taking it, the option should say when it will be there again.
 - Sally out of a besieged fortress: the lent soldiers go back an hour after the battle.
 - A coronation: pick a way to be crowned once; the page should close.

@@ -20,4 +20,4 @@ Guides for the Steam Workshop mod **Warband Reimagined** by Etherdancer. Current
 
 ## Feedback
 
-Use the Comments and Discussions tabs of the mod's Steam Workshop page. Every report helps, including "it works fine".
+Join the mod's [Discord server](https://discord.gg/qqpPMAX46R): talk about the mod, ask for help, and report bugs in **bug-reports** (your report is private). The Comments and Discussions tabs of the mod's Steam Workshop page work too. Every report helps, including "it works fine".

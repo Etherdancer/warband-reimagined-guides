@@ -2,6 +2,35 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 11.9 - the soldier's life, and the Quests crash fixed
+
+**No new game needed.** Saves from version 11.6 and later keep working. A save in which Quests or Notes closed the game is put right when you load it.
+
+### Fixed
+
+- **The game no longer closes when you open Quests or Notes.** After some days of play, pressing Q or opening Notes could close the game at once, and from then on in every save of that game. The cause was the way the game sorts its quest list, which could not cope with the mod's large number of stories. Stories are now listed in a way the game handles. A save that had the fault is repaired the first time you load it: you may see a story leave your quest list and come back in the same moment. The change in 11.8.2 was not the cause, so the record of events inside the save, which that version switched off, is on again.
+- **Deserting a lord's host is a crime in that lord's realm,** as it was meant to be.
+
+### Changed: serving in a lord's host as a common soldier
+
+This part of the mod was rebuilt. A save that is in service carries on with the rank it has.
+
+- **You march with the host.** Your lord's host stays in sight on the map, the map shows what the host sees, and time runs by itself, at the pace of the march or four times as fast.
+- **Your place in the ranks.** A click on the map opens it, and so does the first line of the Camp menu. It shows what the host is doing, your rank and pay, the days to pay day, and what the next rank asks of you.
+- **Your lord will hear you.** Go to him and ask where the host is bound, for a week's leave, for your discharge, or what he makes of your service.
+- **The battle is your lord's.** When the host gives battle the horns call you into the line: take your place, report to the surgeon if you are not fit, or hang back and be seen doing it. The lord's captains give the orders. After the fight a report shows the foes you struck down, your merit and your battle money. Prisoners and plunder are the lord's.
+- **Pay you can see.** 70 to 550 denars a week by rank, counted from the day you enlisted and paid on a page of its own, with a week's rations. A bounty when you sign on, battle money after every won fight, and back pay with a parting gift at an honourable discharge.
+- **Rank comes from battles.** Soldier after 2 battles stood in the line and 3 merit, Veteran after 5 and 10, Sergeant 9 and 22, Standard-bearer 14 and 40, Captain of the Host 20 and 65. Merit comes from standing in the line, from victories, from the foes you strike down, from duties done well and from the soldiers' contest. There is no waiting time. Each rank brings more pay and kit from the quartermaster.
+- **Your record is remembered.** Enlist again in the same realm, with any of its lords, and you start one rank below the best you held there. A deserter's record is wiped.
+- **Into the town.** While the host rests in a town you can walk in and use it like any visitor.
+- **Leave and discharge:** a week's leave after fourteen days, and the host stays in your sight while you are away; discharge with honour after thirty days.
+- **Walls, for now:** when the host storms a fortress or is stormed in one, your company is held back. Fighting at the walls as a soldier comes in a later version.
+
+### Also
+
+- **Wrestling at the festival is now called the fist fight.**
+- **A Discord server for the mod:** [discord.gg/qqpPMAX46R](https://discord.gg/qqpPMAX46R). Bug reports there are private: only you and the author see them.
+
 ## Version 11.8.2 - the suspected cause of a bug removed
 
 **No new game needed.** Saves from version 11.6 and later keep working.

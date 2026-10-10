@@ -178,7 +178,7 @@ Character creation runs in one flow: father, youth, adulthood, why you left, wha
 - **Captains:** enemy and allied lords fight by the plan of their people when they have the troops. Can be switched off (F11, then F10).
 - **Your powers:** battle cry, rally, lock shields, loose!, surge and resupply, plus a champion's fury and a last stand. Morale and routing: armies break when most of a side has fallen.
 - **Before the fight:** order of battle, stances (entrench, ambush, sneak), a speech, omens, a champion's challenge, skirmishers or prayer. **After it:** prisoners, trophies, spoils, honouring veterans, wounds that need treating.
-- **A soldier's career:** enlist with a lord, rise through six ranks with duties, pay and kit; a sergeant may step forward from the ranks to serve you.
+- **A soldier's life:** enlist with a lord and march with his host: it stays in sight, time runs by itself, and a click on the map opens your place in the ranks. The horns call you into the line when the host fights; the battle is the lord's and his captains give the orders. Six ranks earned by battles stood in the line and by merit, weekly pay on a page of its own, battle money, kit from the quartermaster, leave, discharge, and a record each realm remembers. A sergeant may step forward from your own ranks to serve you.
 - **Sieges:** blockades, agents, saboteurs, mines, rams, boiling oil, sallies, parley, poisoned wells, disguises at closed gates, and eighteen camp events.
 - **New soldiers:** seven new troop lines, all in vanilla equipment (the Order, the Grey Road, the Guild, pilgrims, settlers, the reborn Ninth Legion, steppe exiles).
 - **Free Companies:** contracts, stances, and discipline.
@@ -186,7 +186,7 @@ Character creation runs in one flow: father, youth, adulthood, why you left, wha
 ## 13. The tournament festival
 
 - "Join the tournament" opens a **festival of events**, each entered once, with points across the festival.
-- Knockout duel of 16 with a drawn bracket; team knockout with a snake draft and your companions; the joust; wrestling; the archery contest and horse archery; **betting**.
+- Knockout duel of 16 with a drawn bracket; team knockout with a snake draft and your companions; the joust; the fist fight; the archery contest and horse archery; **betting**.
 - Prizes, the title of Champion of the Games, recognition, the Black Knight, rivals, the Gauntlet, the squires' lists and a ranking of fighters.
 
 ## 14. Money, land and power

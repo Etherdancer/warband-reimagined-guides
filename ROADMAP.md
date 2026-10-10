@@ -19,7 +19,8 @@
 
 The main focus now is fixing bugs, if any exist. If something breaks, reads wrong or does not behave as a guide says, please report it.
 
-- **Bug report page:** [warband-reimagined-bugs.pages.dev](https://warband-reimagined-bugs.pages.dev/). One sentence about what went wrong is enough; a screenshot, your save and your log are optional.
+- **Discord server:** [discord.gg/qqpPMAX46R](https://discord.gg/qqpPMAX46R). Open a report in **bug-reports** (it is private: only you and I see it): one sentence about what went wrong is enough; a screenshot, your save (zipped) and your log are optional.
+- **Bug report page:** [warband-reimagined-bugs.pages.dev](https://warband-reimagined-bugs.pages.dev/), if you are not on Discord. It takes the same things.
 - **Steam Workshop:** the Comments and Discussions tabs of the [mod's page](https://steamcommunity.com/sharedfiles/filedetails/?id=3810378800).
 
 The [testing guide](TESTING.md) lists what to include in a report and what is most useful to check. A report of "it works fine" helps too.
@@ -32,7 +33,7 @@ I am open to suggestions from players. Tell me what you would like to see change
 - a rule, a price or a pace that gets in the way of your game,
 - something you expected to be able to do and could not.
 
-It helps to say what you were doing at the time and what you hoped would happen. Post suggestions in the Comments or Discussions tabs of the [mod's Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3810378800).
+It helps to say what you were doing at the time and what you hoped would happen. Post suggestions in the **suggestions** channel of the [Discord server](https://discord.gg/qqpPMAX46R), or in the Comments or Discussions tabs of the [mod's Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3810378800).
 
 ## Looking for inspiration
 
