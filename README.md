@@ -1,6 +1,6 @@
 # Warband Reimagined - guides
 
-Guides for the Steam Workshop mod **Warband Reimagined** by Etherdancer. Current version: **11.9.2** (the 11 "Free Road" line).
+Guides for the Steam Workshop mod **Warband Reimagined** by Etherdancer. Current version: **11.9.4** (the 11 "Free Road" line).
 
 - [Player guide](PLAYER_GUIDE.md) (also a [Steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3817189299)) - a route through the game: what to do first, where the big stories begin and what each needs. Section 11 explains the battle orders step by step: how to give a formation, a tactic or a battle plan, and what each does
 - [Roadmap](ROADMAP.md) - where the mod is heading: the main focus now is fixing bugs, and suggestions and sources of inspiration are welcome

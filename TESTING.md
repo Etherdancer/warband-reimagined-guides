@@ -25,6 +25,13 @@ Tick off what you try. Write down anything odd.
 10. **Time.** Let the game run for two weeks of game days. Do any errors pop up? Does the game pause or stutter on the map?
 11. **Speed.** If your PC is old or slow, tell me how the game runs.
 
+## New in version 11.9.4: please look at these
+
+- **Loot after a hard fight.** Beat a strong enemy, best of all when outnumbered. Does the loot hold pieces of fine make, and does it feel fair: not too poor, not too rich? Tell me the enemy and what you got.
+- **The Outlaw King.** If his host is on your map, beat it. Does the news of his fall come up on the map after the loot, with no freeze?
+- **Notes > Locations.** Are the mod's places listed there, and does "Show On Map" take you to one?
+- **Time left.** Take a story with a time limit and look at its note under Quests on two different days. Has the time gone down?
+
 ## New in version 11.9.2: please look at these
 
 - **One battle is one battle.** Win a field battle in which some of the enemy ran. Is it over? You should be sent in again only when a side still has men who never came onto the field.

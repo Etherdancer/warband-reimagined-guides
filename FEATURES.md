@@ -179,6 +179,7 @@ Character creation runs in one flow: father, youth, adulthood, why you left, wha
 - **Your powers:** battle cry, rally, lock shields, loose!, surge and resupply, plus a champion's fury and a last stand. Morale and routing: in the open field armies break when most of a side has fallen; in a siege nobody routs.
 - **Before the fight:** order of battle, stances (entrench, ambush, sneak), a speech, omens, a champion's challenge, skirmishers or prayer. **After it:** prisoners, trophies, spoils, honouring veterans, wounds that need treating.
 - **A soldier's life:** enlist with a lord and march with his host: it stays in sight, time runs by itself (Space halts the march for you and starts it again, Ctrl+Space hurries), and the H key or the Camp menu opens your place in the ranks, where you can go to your lord or desert at any time. The horns call you into the line when the host fights, and to the walls when it storms a place or is stormed in one; the battle is the lord's and his captains give the orders. Six ranks earned by battles stood in the line and by merit, weekly pay on a page of its own, battle money, kit from the quartermaster, leave, discharge, and a record each realm remembers. A sergeant may step forward from your own ranks to serve you.
+- **Loot that fits the fight (new in 11.9.4):** the tougher the battle, the better its loot. Fewer pieces come out spoiled, and a hard fight leaves pieces of the enemy's own gear of fine make, now and then a masterwork weapon, a lordly armour or a champion horse.
 - **Sieges:** blockades, agents, saboteurs, mines, rams, boiling oil, sallies, parley, poisoned wells, disguises at closed gates, and eighteen camp events.
 - **New soldiers:** seven new troop lines, all in vanilla equipment (the Order, the Grey Road, the Guild, pilgrims, settlers, the reborn Ninth Legion, steppe exiles).
 - **Free Companies:** contracts, stances, and discipline.
@@ -217,7 +218,7 @@ Character creation runs in one flow: father, youth, adulthood, why you left, wha
 
 - **Camp > The Chronicle:** the hub for your house, company, court, careers and options.
 - **Reports** (map bar): character sheet, Chronicle of Deeds, statistics, the roads, realms, ledger, budget, troop trees.
-- **Notes:** the in-game Guide (Game Concepts), realm details (Factions), companions' and lords' notes (Troops), and your stories in progress (Quests).
+- **Notes:** the in-game Guide (Game Concepts), realm details (Factions), companions' and lords' notes (Troops), the mod's own places beside towns and castles (Locations, with "Show On Map"), and your stories in progress (Quests), each with its time left when it has a limit.
 - **In a battle:** F4 shows the order card. To give an order, choose who listens (1-9, or 0 for all), press the key of a page (F5 formations, F6 foot, F7 shot, F8 horse, F9 battle plans), then the key of the order. The in-game Guide has it under "Reimagined: Battle orders and keys".
 - **Options:** switch off omens, raiders, assassins, the rival, crises, tips, hostile wanderers and walk-in places; change difficulty.
 - **First visits:** each system explains itself the first time you meet it.
