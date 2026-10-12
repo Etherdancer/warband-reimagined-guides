@@ -6,22 +6,11 @@
 
 **No new game needed.** Saves from version 11.6 and later keep working.
 
-### Fixed
-
-- **The game no longer freezes or closes after you beat the Outlaw King's host.** The news of his fall came up while the victory page was still opening. It now comes up once you are back on the map, and so does the news of a fallen companion and of a title a kingdom gives you.
-- **Fifteen stories no longer tell the same thing twice at their start,** or contradict themselves there (the smith's iron, the almoner's grain, the sheriff's safehouse, the squire's knighting, the well of Ravenhold).
-
-### New: the tougher the battle, the better its loot
-
-- **Fewer spoiled pieces.** After a hard fight fewer pieces of the loot come out rusty, cracked or tattered. The Looting skill helps too.
-- **Pieces of fine make.** A tough battle leaves one to four pieces of the enemy's own gear of fine make, and now and then one of the best make: a masterwork weapon, a lordly armour, a champion horse.
-- **What counts as tough:** how strong the enemy troops were that fell, how badly you were outnumbered, and how much of the fighting was yours. An easy win over a rabble gives what it gave before.
-- It holds for every battle that ends with loot.
-
-### New: finding places, and time left
-
-- **The mod's own places are listed under Notes > Locations,** like towns and castles: landmarks, steadings, inns, crossings, camps and the rest, each as soon as it is open on your map. "Show On Map" on a place's page takes you there. In a running game they appear within a few hours of travel.
-- **A story with a time limit shows the time left in its quest note,** counting down by the hour ("Time left: 3 days and 5 hours.").
+- **Fixed:** the game no longer freezes or closes after you beat the Outlaw King's host.
+- **Better loot after a hard fight.** The tougher the battle, the better its loot, taken from the enemy's own gear. An easy win gives what it gave before.
+- **Notes > Locations** lists the mod's own places, with "Show On Map".
+- **A story with a time limit** shows the time left in its quest note.
+- Small text fixes.
 
 ## Version 11.9.2 - the march runs by itself, and a soldier fights at the walls
 
