@@ -2,6 +2,52 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 12.0 - a deeper company, battle and realm
+
+**New game required.** Saves of earlier versions do not load: start a new game after updating.
+
+- **Your company:** roles, saved kits, a household guard, marching pace, the camp's gear, a field exercise and a review.
+- **Battle:** a strength bar and battle map, battle plans and reserves, the fight goes on when you fall, a battle report; defenders fall back when a wall is lost.
+- **The soldier's life:** the mess and cards, a section to lead, and ways out when you are taken.
+- **Realm and money:** the marshal and the war council, letters, a plot against the crown, loans and shares, new ways to recruit.
+- **Stories and places:** stories that lead on, companions in story scenes, races and shooting matches, small wayside places, treasure digs, a map of Calradia.
+
+Version 12 is a big update, and some things will not work as they should at first. Please report what you find (Discord or the bug page) and be patient: the bugs will be fixed.
+
+## Version 11.9.9 - no more script errors after raising a patrol
+
+**No new game needed.** Saves from version 11.6 and later keep working.
+
+- **Fixed:** a script error that kept popping up on the map after you raised a patrol. Games where it already appears are fixed as well.
+
+## Version 11.9.8 - clan camps have all their people again
+
+**No new game needed.** Saves from version 11.6 and later keep working.
+
+- **Fixed:** clan camps have all their people again.
+- Small text fixes.
+
+## Version 11.9.7 - no more bands without men
+
+**No new game needed.** Saves from version 11.6 and later keep working.
+
+- **Fixed:** bands that came with no men (the rival, bounty hunters, hired assassins, some story fights) now have their men.
+- **Fixed:** the Outlaw King's host no longer attacks you after you agree to ride with it.
+- **Fixed:** a grave can be robbed only once, and men no longer wear women's hats.
+- **Changed:** finding an imperial curio tells you where its buyers ride; the miller sells flour every three days.
+
+## Version 11.9.6 - the deserter job no longer closes the game
+
+**No new game needed.** Saves from version 11.6 and later keep working.
+
+- **Fixed:** the deserter job no longer closes the game.
+
+## Version 11.9.5 - village jobs are handed in where you took them
+
+**No new game needed.** Saves from version 11.6 and later keep working.
+
+- **Fixed:** a job taken from a villager or a castle's keeper is now handed in to that person, where you took it. Jobs taken before can be claimed at the nearest town's notice board.
+
 ## Version 11.9.4 - better loot after a hard fight, and the Outlaw King's fall no longer stops the game
 
 **No new game needed.** Saves from version 11.6 and later keep working.

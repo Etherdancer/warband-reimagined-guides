@@ -4,7 +4,7 @@ Thank you for helping. Play the way you like, and tell me what looked wrong.
 
 ## Before you start
 
-- Use your own save (from version 11.6 or later) or start a new game. Both are worth testing.
+- Start a new game: version 12 does not load saves of earlier versions.
 - Pick any difficulty. Story is fine for testing.
 - You do not have to do everything. A short session and a short report already help.
 - Save before you try something, so you can go back.
@@ -24,6 +24,17 @@ Tick off what you try. Write down anything odd.
 9. **A companion** (if you have one). Ask "How do you find the company, and me?".
 10. **Time.** Let the game run for two weeks of game days. Do any errors pop up? Does the game pause or stutter on the map?
 11. **Speed.** If your PC is old or slow, tell me how the game runs.
+
+## New in version 12: please look at these
+
+- **A field battle:** does the strength bar show both sides, and does the battle report open after the fight? If you fall, does the fight go on?
+- **Before a battle:** set a plan and a reserve. Do they hold when the battle starts?
+- **A siege:** storm a wall and hold it. Do the defenders fall back?
+- **Your company:** give a companion a role, save a kit and put it on, set the marching pace. Does each page say what it does?
+- **The camp:** drill the men, review the company, buy the camp's gear.
+- **The soldier's life:** serve in a lord's host: the mess, the cards, a section of your own from Sergeant.
+- **The realm:** as a vassal, open the war council, send a letter, stand for marshal.
+- **Saving and loading:** save, load, and see that everything is where you left it.
 
 ## New in version 11.9.4: please look at these
 

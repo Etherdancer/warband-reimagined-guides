@@ -1,14 +1,25 @@
 # Warband Reimagined - Full feature list
 
-*Everything in version 11, grouped by theme. Back to the [README](README.md), the [changelog](CHANGELOG.md) or the [testing guide](TESTING.md).*
+*Everything in version 12, grouped by theme. Back to the [README](README.md), the [changelog](CHANGELOG.md) or the [testing guide](TESTING.md).*
 
-**Your save.** Saves from version 11.6 and later keep working. A save from an older version needs a new game.
+**Your save.** Version 12 needs a new game: saves of earlier versions do not load.
 
 **Light on any PC.** Only Native's own models, textures, scenes, sounds and music are used. The one new picture is the title logo.
 
+## New in version 12
+
+Version 12 is a big update, and some things will not work as they should at first. Please report what you find (Discord or the bug page) and be patient: the bugs will be fixed.
+
+- **Your company** (the Your company page): roles for your companions (Surgeon, Scout, Quartermaster, Engineer, Trainer, Second), every companion on one page, saved kits for war, travel and court, a household guard of your own, marching pace, lying in wait in forest and mountains, hard ground that slows the march, the camp's gear, fevers on the march, a field exercise and a review of the men.
+- **Battle:** a strength bar and a battle map, a plan and reserves before the battle, keys of your own for the order pages, the fight goes on when you fall, a battle report, prisoners decided kind by kind, and in a siege the defenders fall back when a wall is lost.
+- **The soldier's life:** the mess with dice and a game of cards, a section to lead from Sergeant, the later steps of a soldier's career, and ways out when you are taken prisoner.
+- **Realm and money:** who won the war, standing for marshal, the war council, letters carried by riders, lords' styles in their realm's own words, the strength of the realms, lending a companion, a plot against the crown, the Church's Courts, a loan when the money runs out, and shares in Guild convoys.
+- **Recruiting:** the castellan's recruiter, new doors to recruit at a town's Guild hall and in your fiefs, men from far away, a Free Company hired whole, and the rule Where Men Are Made (off by default).
+- **Stories and places:** stories that lead on to others, companions who walk into a story's scenes with you, races and shooting matches, bouts two against two, companions on each other, the melee of three, deeds for the lords, the Outlaw King's head, twelve small wayside places, treasure digs, places known by hearsay, the map of Calradia, a town seen from above, bringing up the heir, a memorial for the fallen, the graves' oaths, a commander's strain, gifts at a house of the faith, and companions who can die (a start rule, off by default).
+
 ## 1. Stories and quests
 
-The heart of the mod: **372 stories**, every one on the same story engine, so they all behave the same way.
+The heart of the mod: **377 stories**, every one on the same story engine, so they all behave the same way.
 
 - **Choices with reasons.** An option you cannot take yet is shown greyed, with the reason in brackets (a skill, a rank, an item, a friend, a trait).
 - **An open path at every step.** There is always a way forward that needs no special skill and no gold, though it may cost you something else.
