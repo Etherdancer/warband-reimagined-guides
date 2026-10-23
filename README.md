@@ -8,7 +8,7 @@ Guides for the Steam Workshop mod **Warband Reimagined** by Etherdancer. Current
 - [Changelog](CHANGELOG.md) - what changed in each version
 - [Testing guide](TESTING.md) - what to check and how to report it
 
-**Your save.** Version 12 needs a new game: saves of earlier versions do not load. The first lines of each entry in the [changelog](CHANGELOG.md) say it for every version.
+**Your save.** Version 12 needs a new game: saves of earlier versions do not load. The first lines of each entry in the [changelog](CHANGELOG.md) say it for every version. To carry over your character from an older version, download the [standalone v11.9.9 build](https://github.com/Etherdancer/warband-reimagined-guides/releases/tag/v11.9.9), load your save in 11.9.9, and export your character (**C** > Statistics > Export). In v12, start a new game with the same name and click Import Character to restore your record automatically.
 
 **Light on any PC.** The mod uses Native's own models, textures, scenes, sounds and music. The only new picture is the title logo. It runs on older and weaker machines as well as Native does.
 

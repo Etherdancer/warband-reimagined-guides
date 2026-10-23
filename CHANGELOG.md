@@ -4,7 +4,7 @@
 
 ## Version 12.0 - a deeper company, battle and realm
 
-**New game required.** Saves of earlier versions do not load: start a new game after updating.
+**New game required.** Saves of earlier versions do not load: start a new game after updating. (To carry over your old character from v11, download the [standalone v11.9.9 build](https://github.com/Etherdancer/warband-reimagined-guides/releases/tag/v11.9.9), load your save, and export your character via **C** > Statistics > Export).
 
 - **Your company:** roles, saved kits, a household guard, marching pace, the camp's gear, a field exercise and a review.
 - **Battle:** a strength bar and battle map, battle plans and reserves, the fight goes on when you fall, a battle report; defenders fall back when a wall is lost.
