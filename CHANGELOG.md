@@ -2,6 +2,41 @@
 
 *Every public build, newest first. "New game required" means saves from the previous build will not work: start a new game after updating. Back to the [README](README.md), the [feature list](FEATURES.md) or the [testing guide](TESTING.md).*
 
+## Version 12.1.3 - playtest fixes
+
+**No new game needed.** Saves from version 12.0 and later keep working.
+
+- **Fixed:** you no longer get stuck in the toll post or the farm lane, companions come into scenes, and story scenes no longer put things outside a town's walls.
+- **Fixed:** riding into your starting town works at once, and the old tutorial merchant no longer appears.
+- **Fixed:** the Great Tournament's host town holds its lists, and the archery contest counts down.
+- **Fixed:** the town, report and tournament pages fit the screen, and quick talk shows the town or village.
+- **Changed:** clearer rules at the start. Small text fixes.
+
+## Version 12.1.2 - the town from above
+
+**No new game needed.** Saves from version 12.0 and later keep working.
+
+- **Fixed:** waiting works from the town seen from above.
+- **New:** every page of the town can be used over the town's scene, and the view stands outside the walls.
+
+## Version 12.1.1 - permadeath and the troop trees page
+
+**No new game needed.** Saves from version 12.0 and later keep working.
+
+- **Fixed:** permadeath works again: with the option on, you can die of your wounds when you are taken prisoner.
+- **Fixed:** the troop trees page can be left again: the trees stand on pages, and every page has a way back.
+
+## Version 12.1 - troop trees, lords' kits and the weekly budget
+
+**No new game needed.** Saves from version 12.0 keep working.
+
+- **Fixed:** a battle that could not be ended after you were knocked out; patrols come back when you recall them; the household guard keeps its name and kit after loading; the weekly budget no longer counts some income and costs twice. Small text fixes.
+- **New:** the Manhunters, hired in taverns, take their quarry alive.
+- **New:** the orders, companies and clans have full troop trees, and some of their men can be recruited through them. The troop trees page shows every line.
+- **New:** lords, rulers and the kingdoms' troops wear more of their culture's armour, by rank.
+- **New:** all regular income comes in by itself with the weekly budget, which lists each source: nothing to collect by hand.
+- **Changed:** cattle herds sell at once, the cellar ring and tavern brawls are fought indoors, and the Gauntlet is longer.
+
 ## Version 12.0 - a deeper company, battle and realm
 
 **New game required.** Saves of earlier versions do not load: start a new game after updating. (To carry over your old character from v11, download the [standalone v11.9.9 build](https://github.com/Etherdancer/warband-reimagined-guides/releases/tag/v11.9.9), load your save, and export your character via **C** > Statistics > Export).
