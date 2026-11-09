@@ -2,6 +2,10 @@
 
 Guides for the Steam Workshop mod **Warband Reimagined** by Etherdancer. Current version: **12.1.3**.
 
+[![Watch the Warband Reimagined trailer](https://img.youtube.com/vi/nZI7aIhtGaM/hqdefault.jpg)](https://youtu.be/nZI7aIhtGaM)
+
+**[Watch the trailer](https://youtu.be/nZI7aIhtGaM)** or visit the [website](https://etherdancer.com/warband-reimagined/) for clips and pictures.
+
 - [Player guide](PLAYER_GUIDE.md) (also a [Steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3817189299)) - a route through the game: what to do first, where the big stories begin and what each needs. Section 11 explains the battle orders step by step: how to give a formation, a tactic or a battle plan, and what each does
 - [Roadmap](ROADMAP.md) - where the mod is heading: the main focus now is fixing bugs, and suggestions and sources of inspiration are welcome
 - [Full feature list](FEATURES.md) - everything in the mod, grouped by theme
